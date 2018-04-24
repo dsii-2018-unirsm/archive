@@ -49,8 +49,6 @@ I dati sono forniti da google maps in formato JSON.
   ricevuti. Questo rendere visibile l'attività che si svolge all'interno dello spazio.
 
 
-[La riappropriazione della città](https://vimeo.com/11457755) - Ugo La Pietra.
-
 ## tecnologie
 Drawing machine, carta e penna, API, P5 o Processing.
 
