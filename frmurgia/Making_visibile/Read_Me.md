@@ -35,8 +35,7 @@ più visitate ma anche le zone ancora sconosciute.
 
 
 ## Come Funziona?
-L'utente dopo aver fatto il log-in con il proprio account google
-
+Il primo step prevede il log-in con l'account google, tramite processing i dati vengono convertiti in percorso macchina per la drawing machine che disegnerà la mappa in un foglio di carta trasparente.
 
 ## Dati
 I dati sono forniti da google maps in formato JSON.
@@ -50,7 +49,7 @@ I dati sono forniti da google maps in formato JSON.
 
 
 ## tecnologie
-Drawing machine, carta e penna, API, P5 o Processing.
+Drawing machine, carta trasparente e penna, API, P5 o Processing.
 
 
 
