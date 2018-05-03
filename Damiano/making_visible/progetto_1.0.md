@@ -1,4 +1,4 @@
-**smartphones are killing the world** [+](https://www.fastcodesign.com/90165365/smartphones-are-wrecking-the-planet-faster-than-anyone-expected)
+**Smartphones are killing the world** [+](https://www.fastcodesign.com/90165365/smartphones-are-wrecking-the-planet-faster-than-anyone-expected)
 >The problem is that building a new smartphone–and specifically, mining the rare materials inside them–represents 85% to 95% of the device’s total CO2 emissions for two years. That means buying one new phone takes as much energy as recharging and operating a smartphone for an entire decade.
  __*Smartphones represent a fast-growing segment of ICT, but the overall largest culprit with regards to CO2 emissions belongs to servers and data centers themselves, which will represent 45% of ICT emissions by 2020. That’s because every Google search, every Facebook refresh, and every dumb Tweet we post requires a computer somewhere to calculate it all in the cloud. (The numbers could soon be even worse, depending on how popular cryptocurrencies get.) Here, the smartphone strikes again.*__
 
@@ -6,13 +6,17 @@
 **Parole Chiave**<br>Azione-->Reazione-->Cambiamento
 
 **CONCEPT**<br>
+>
+
+
+
 
 
 
 **Dati**<br>
+>
 
-
-**Cos'è?**<br>Un'istallazione che intende far riflettere sulle nostre azioni quotidiane, ponendo l'accento sull'uso smodato della tecnologia e su come essa stia generando un cambiamento del quale non ci rendiamo conto. Si è voluto mostrare come anche azioni innocue come il refresh di una pagina web generano inquinamento e quindi cambiamento nell'ambiente circostante.
+**Cos'è?**<br>>Un'istallazione che intende far riflettere sulle nostre azioni quotidiane, ponendo l'accento sull'uso smodato della tecnologia e su come essa stia generando un cambiamento del quale non ci rendiamo conto. Si è voluto mostrare come anche azioni innocue come il refresh di una pagina web generano inquinamento e quindi cambiamento nell'ambiente circostante.
 
 **Come funziona?**<br>L'istallazione si compone di più parti: un barile da petrolio, una pianta, un software di scraping  che legge i dati da instagram, una elettropompa manovrata tramite arduino, un proiettore/display.
 
