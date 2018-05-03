@@ -1,5 +1,5 @@
 # ***Immaterials : Light painting wifi***, Arnall, Knutsen, Martinussen, 2012
-![A](https://imgur.com/jdrfsIa)
+![Alt Image](https://imgur.com/jdrfsIa)
 - **Cos'è?**
 >È un progetto che mira a rendere visibile il funzionamento di tecnologie moderne che ci circondano ogni giorno ma che sarebbero altrimenti invisibili.
 - **Come funziona?**
