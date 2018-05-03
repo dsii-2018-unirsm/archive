@@ -110,18 +110,3 @@ Smartphones represent a fast-growing segment of ICT, but the overall largest cul
 
 //////////////////////////////////////////////////////////
 
-**AZIONE-->REAZIONE-->CAMBIAMENTO**
-
-**Cos'è?**
-- una visualizzazione delle azioni che compiamo ogni giorno
-
-- una visualizzazione delle modifiche che apportiamo al mondo con le nostre azioni
-
-- rendere evidenti i segni che lasciamo
-
-**Cosa significa?**
-- significa portare alla luce e far riflettere su delle azioni/relazioni
-
-- cambiare percezione della normalità / del mondo odierno / del vivere / del futuro
-
-- cambiare punto di vista sulle cose
