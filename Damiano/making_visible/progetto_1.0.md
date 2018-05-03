@@ -12,13 +12,15 @@
 **Dati**<br>
 
 
-**Cos'è?**<br>
+**Cos'è?**<br>Un'istallazione che intende far riflettere sulle nostre azioni quotidiane, ponendo l'accento sull'uso smodato della tecnologia e su come essa stia generando un cambiamento del quale non ci rendiamo conto. Si è voluto mostrare come anche azioni innocue come il refresh di una pagina web generano inquinamento e quindi cambiamento nell'ambiente circostante.
 
-**Come funziona?**<br>
+**Come funziona?**<br>L'istallazione si compone di più parti: un barile da petrolio, una pianta, un software di scraping  che legge i dati da instagram, una elettropompa manovrata tramite arduino, un proiettore/display.
 
-**Cosa significa?**<br>
+**Cosa significa?**<br>Significa voler richiamare l'attenzione sul fatto che anche le nuove tecnologie e l'uso smodato di esse sta generando cambiamenti che al pari dell'inquinamento da plastica stanno avendo un impatto notevole sul mondo.
 
 **Cosa succederebbe se?**<br>
+
+
 
 **DESIGN FICTION**
 
