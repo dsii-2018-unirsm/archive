@@ -1,5 +1,5 @@
 # ***The flow towards Europe***, Lucify, 2015
-![Imgur](https://imgur.com/UYSKhGO)<br><br>
+![Imgur](https://i.imgur.com/UYSKhGO.jpg)<br><br>
 - **Cos'è?**
 >È una visualizzazione grafica, narrativa, il cui intento è mostrare i flussi migratori dei richiedenti asilo nel tempo, generati dalla crisi dei rifugiati dal 2012 in poi.
 - **Come funziona?**
