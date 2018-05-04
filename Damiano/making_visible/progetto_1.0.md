@@ -46,7 +46,7 @@ Significa voler richiamare l'attenzione sul fatto che anche le nuove tecnologie 
 Se al posto dell'inchiostro nero si facesse uso di uno fluorescente si potrebbe giocare sul contrasto visibile invisibile ancora di più. Luce accesa situazione di stasi e normalità, sembra quasi che l'inchiostro nutra la pianta ad ogni hashtag. Luce spenta si vede l'impatto e l'inquinamento, avvelenamento, relativo.
 
 **DESIGN FICTION**<br>
-Nel 2050 visto l'enorme inquinamento creato dalle nuove tecnologie, l'uomo ha impiantato un sistema tecnologico miniaturizzato per cui ogni refresh di pagina, ogni post viene tassato e ogni azione viene meditata.
+Nel 2050 visto l'enorme inquinamento creato dalle nuove tecnologie, e la continua carenza di  piante l'uomo ha impiantato un sistema tecnologico miniaturizzato per cui ogni refresh di pagina, ogni post viene tassato e ogni azione viene meditata.
 
 
 
