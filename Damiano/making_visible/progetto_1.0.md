@@ -12,7 +12,7 @@ Partendo da questo punto di vista, si è pensato un progetto che renda evidenti 
 Il progetto prevede un'istallazione posta al centro di una stanza dal soffitto più o meno alto.
 Al centro della stanza attaccato al soffitto vi è un barile di petrolio vuoto al cui interno è posto un contenitore contenente dell'inchiostro(nero?), un arduino, un elettropompa collegata ad una serpentina che va all'esterno.
 Al di sotto del barile è posta una vasca di plastica trasparente contenente dell'acqua e al cui centro è posta una pianta.
-Un software di web scraping va a ricercare e leggere gli hashtag relativi al tema #green #nature e relativi al preservare la natura, al tutelarla e prendersi cura di essa. Ogni qualvolta il software legge un hashtag manda un impulso ad arduino che va ad attivare l'elettropompa che rilascia inchiostro nero sull'ambiente sottostante. 
+Un software di web scraping va a ricercare e leggere gli hashtag relativi al tema #green #nature e relativi al preservare la natura, al tutelarla e prendersi cura di essa. Ogni qualvolta il software legge un hashtag manda un impulso ad arduino che va ad attivare l'elettropompa che rilascia inchiostro nero sull'ambiente sottostante. In contemporanea sul barile viene proiettato l'hashtag corrente che ha generato la goccia oppure con display viene mostrato il post con relativo hashtag.
 L'istallazione partirà da una condizione di pulizia legata al concetto di benessere e finirà con la contaminazione dell'acqua e la relativa morte della pianta, portandosi dietro i significati connessi all'inquinamento.
 
 ![A](https://i.imgur.com/Wc8RL5Am.png)
