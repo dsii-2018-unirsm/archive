@@ -52,6 +52,8 @@ cartografiche anche dopo l'avvento dei media digitali.
 
 
 #### Moving objects | nº 804 [+](http://www.creativeapplications.net/objects/moving-objects-no-804-by-pe-lang/)
+
+![image](https://github.com/frmurgia/Img/blob/master/1.png)
 L'installazione cinetica di [Pe Lang](http://pelang.ch/works.html) esplora il contrasto tra ordine e chaos, 804 corde elastiche
 sono tese da una parte e tirate dall'atra, rivelando l'ordine da una parte e il chaos
 dall'altra. L'ordine e il chaos sono rappresentati in un fragile equilibrio in un
