@@ -57,8 +57,8 @@ sono tese da una parte e tirate dall'atra, rivelando l'ordine da una parte e il 
 dall'altra. L'ordine e il chaos sono rappresentati in un fragile equilibrio in un
 contesto formale dove ogni elemento ha la sua funzionalità.
 
-#### La riappropriazione della città: i propri itinerari [+](https://www.facebook.com/ugolapietra/posts/10155024897708388)
-riprendendo la ricerca degli anni Settanta sulla "Riappropriazione della città",
+#### La riappropriazione della città: i propri itinerari [+](http://www.hangarbicocca.org/mostra/take-me-im-yours/)
+Riprendendo la ricerca degli anni Settanta sulla "Riappropriazione della città",
  propone per la mostra Take me (I'm yours) un esercizio che invita il pubblico a tracciare
   I propri itinerari della città di Milano su un foglio trasparente, a disposizione
   dei visitatori, da sovrapporre a una mappa decodificata della città.
@@ -111,7 +111,7 @@ Il visitatore è invitato a loggarsi ad un pc con il proprio account Google e su
 approvando la condivisione dei propri dati google maps con hidden relation.
 Se i dati sono corretti, la macchina a controllo numerico disegna il negativo delle
 strade non percorse dall'utente.
-è facolta dell'utente decidere se portasi via la mappa generata con i propri dati.
+E' facolta dell'utente decidere se portasi via la mappa generata con i propri dati.
 Hidden relation mantiente in digitale i dati di tutti gli utenti creando una mappa dinamica
 e colletiva dei luoghi e dei percorsi più visitati.
 
