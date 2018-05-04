@@ -10,8 +10,15 @@
 
 Partendo da questo punto di vista, si è voluto generare un sistema che renda visibile queste interazioni digitali altrimenti invisibili. Un software di web scraping va a ricercare e leggere gli hashtag relativi al tema #green #nature e sul preservare la natura. Ogni qualvolta il software legge un hashtag manda un impulso ad arduino che va a 
 
-**Componenti del progetto**
-> * Uno * Due * Tre
+**Componenti del progetto**<br>
+* Barile da petrolio + Contenitore per liquidi
+* Inchiostro
+* Serpentine
+* Software scraping
+* Arduino
+* Elettropompa
+* Proiettore / Display
+* Pianta / Vasca trasparente + acqua
 
 
 **Dati**<br>
