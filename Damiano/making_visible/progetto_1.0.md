@@ -6,7 +6,7 @@
 **Parole Chiave**<br>Azione-->Reazione-->Cambiamento
 
 
-**PROGETTO 1.0**
+**PROGETTO 1.0**<br>
 **Hashtag diEspenser**
 
 **CONCEPT**<br>
