@@ -10,19 +10,28 @@
 
 Partendo da questo punto di vista, si è voluto generare un sistema che renda visibile queste interazioni digitali altrimenti invisibili. Un software di web scraping va a ricercare e leggere gli hashtag relativi al tema #green #nature e sul preservare la natura. Ogni qualvolta il software legge un hashtag manda un impulso ad arduino che va a 
 
+**Componenti del progetto**
+> * Uno
+* Due 
+* Tre
+
+
 **Dati**<br>
 >Scraping API instagram<br>
 >Hashtag<br>
 >Post instagram<br>
 
-**Cos'è?**<br>Un'istallazione che intende far riflettere sulle nostre azioni digitali quotidiane, ponendo l'accento sull'uso smodato della tecnologia e su come essa stia generando un cambiamento del quale non ci rendiamo conto. Si è voluto mostrare come anche azioni innocue come il refresh di una pagina web generano inquinamento e quindi cambiamento nell'ambiente circostante.
+**Cos'è?**<br>
+>Un'istallazione che intende far riflettere sulle nostre azioni digitali quotidiane, ponendo l'accento sull'uso smodato della tecnologia e su come essa stia generando un cambiamento del quale non ci rendiamo conto. Si è voluto mostrare come anche azioni innocue come il refresh di una pagina web generano inquinamento e quindi cambiamento nell'ambiente circostante.
 
-**Come funziona?**<br>L'istallazione si compone di più parti: un barile da petrolio, una pianta, un software di scraping  che legge i dati da instagram, una elettropompa manovrata tramite arduino, un proiettore/display.
+**Come funziona?**<br>
+>L'istallazione si compone di più parti: un barile da petrolio, una pianta, un software di scraping  che legge i dati da instagram, una elettropompa manovrata tramite arduino, un proiettore/display.
 
-**Cosa significa?**<br>Significa voler richiamare l'attenzione sul fatto che anche le nuove tecnologie e l'uso smodato di esse sta generando cambiamenti che al pari dell'inquinamento "tradizionale" (mi si passi il termine) stanno avendo un impatto notevole sul mondo.
+**Cosa significa?**<br>
+>Significa voler richiamare l'attenzione sul fatto che anche le nuove tecnologie e l'uso smodato di esse sta generando cambiamenti che al pari dell'inquinamento "tradizionale" (mi si passi il termine) stanno avendo un impatto notevole sul mondo.
 
 **Cosa succederebbe se?**<br>
-Inserire altre idee, acqua, pianta etc etc
+>Inserire altre idee, acqua, pianta etc etc
 
 
 **DESIGN FICTION**
