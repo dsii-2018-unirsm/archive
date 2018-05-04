@@ -3,16 +3,8 @@
 ##### #omologazione #spazio #relazione #riappropriazione
 
 
-Guy Debord
-> «Per fare una deriva, andate in giro a piedi senza meta od orario. Scegliete man mano il percorso non in
-base a ciò che sapete, ma in base a ciò che vedete intorno. Dovete essere straniati e guardare ogni
-cosa come se fosse la prima volta. Un modo per agevolarlo è camminare con passo cadenzato e
-sguardo leggermente inclinato verso l’alto, in modo da portare al centro del campo visivo l’architettura e
-lasciare il piano stradale al margine inferiore della vista. Dovete percepire lo spazio come un insieme
-unitario e lasciarvi attrarre dai particolari»* <br>
-
-
 ## Analisi
+
 
 Alla fine degli anni '50, il movimento artistico dei situazionisti teorizzò la
  psicogeografia, che studiò gli effetti dell'ambiente geografico, disposto
@@ -42,8 +34,22 @@ e il percorso è generato da un algoritmo, probabilmente verrà suggerita loro l
 identica soluzione.
 
 
+Guy Debord
+> «Per fare una deriva, andate in giro a piedi senza meta od orario. Scegliete man mano il percorso non in
+base a ciò che sapete, ma in base a ciò che vedete intorno. Dovete essere straniati e guardare ogni
+cosa come se fosse la prima volta. Un modo per agevolarlo è camminare con passo cadenzato e
+sguardo leggermente inclinato verso l’alto, in modo da portare al centro del campo visivo l’architettura e
+lasciare il piano stradale al margine inferiore della vista. Dovete percepire lo spazio come un insieme
+unitario e lasciarvi attrarre dai particolari»* <br>
+
+
+![image](https://github.com/frmurgia/Img/blob/master/la%20citta%20nuda.jpg)
+
+
 ## casi studio
 #### The New Velocity – The faulty consistency of cartography [+](http://www.creativeapplications.net/openframeworks/the-new-velocity-the-faulty-consistency-of-cartography/)
+
+![image](https://github.com/frmurgia/Img/blob/master/2.png)
 
 The New Velocity è una macchina progettata per rappresentare l'isola fantasma di [Sandy Island](https://en.wikipedia.org/wiki/Sandy_Island,_New_Caledonia)
 ricreando la sua esistenza tramite un dispositivo digitale.
@@ -54,12 +60,17 @@ cartografiche anche dopo l'avvento dei media digitali.
 #### Moving objects | nº 804 [+](http://www.creativeapplications.net/objects/moving-objects-no-804-by-pe-lang/)
 
 ![image](https://github.com/frmurgia/Img/blob/master/1.png)
+
+
 L'installazione cinetica di [Pe Lang](http://pelang.ch/works.html) esplora il contrasto tra ordine e chaos, 804 corde elastiche
 sono tese da una parte e tirate dall'atra, rivelando l'ordine da una parte e il chaos
 dall'altra. L'ordine e il chaos sono rappresentati in un fragile equilibrio in un
 contesto formale dove ogni elemento ha la sua funzionalità.
 
 #### La riappropriazione della città: i propri itinerari [+](http://www.hangarbicocca.org/mostra/take-me-im-yours/)
+
+![image](https://github.com/frmurgia/Img/blob/master/ugo.jpg)
+
 Riprendendo la ricerca degli anni Settanta sulla "Riappropriazione della città",
  propone per la mostra Take me (I'm yours) un esercizio che invita il pubblico a tracciare
   I propri itinerari della città di Milano su un foglio trasparente, a disposizione
@@ -80,6 +91,8 @@ come l'uomo si relaziona alle città definendo personali confini, connessioni e
 abitudini del vivere lo spazio pubblico.
 
 ## dataset
+
+![image](https://github.com/frmurgia/Img/blob/master/google%20api.png)
 Hidden relations utilizza i dati relativi agli spostamenti registrati dalla
 cronologia di google maps, sono forniti dagli utenti che intendono utilizzare l'installazione.
 I dati sono forniti da Google Maps in formato JSON e richiamati da specifica da API.
@@ -107,6 +120,10 @@ che ci offre in relazione all'esplorazione e alla relazione con lo spazio.
 
 
 ## come funziona?
+
+![image](https://github.com/frmurgia/Img/blob/master/1644e0db-4e7a-42bf-952e-78fd78810191.jpeg) ![image](https://github.com/frmurgia/Img/blob/master/176ff3fc-eced-4a94-98dd-53ae00a6d0cb.jpeg) ![image](https://github.com/frmurgia/Img/blob/master/bb1365c2-3e4a-4266-95ce-1520cfb9119a.jpeg)
+
+
 Hidden relation è pensato come city specific, quindi rivolto agli abitati di una
 determinata città.
 Il visitatore è invitato a loggarsi ad un pc con il proprio account Google e succesivamente
