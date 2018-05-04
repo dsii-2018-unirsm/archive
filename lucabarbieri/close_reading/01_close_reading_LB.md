@@ -1,7 +1,10 @@
-### The flow towards Europe ###
-**anno — 2015**   
-**design — Lucify e Ville Saarinen**    
-**project — The flow towards europe**     
+# The flow towards Europe #  
+
+**anno — 2015**
+
+**design — Lucify e Ville Saarinen**   
+
+**project — The flow towards europe**         
 
 ![The flow towards Europe](https://i.imgur.com/PRnkjsP.gif)
 
@@ -30,8 +33,9 @@ Il progetto pur parlando di migrazione prende in esame una sola fetta di territo
 
 1 È basato sull'esempio Sankey di Mike Bostock.
 
-**fonti dei dati -**
+**fonti dei dati —**
 
 Dati mensili dei richiedenti asilo disponibili online presso l'UNHCR. [+](http://popstats.unhcr.org/en/asylum_seekers_monthly)
 [+](http://data.unhcr.org/syrianrefugees/regional.php)
+
 
