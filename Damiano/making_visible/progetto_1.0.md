@@ -8,9 +8,13 @@
 **CONCEPT**<br>
 L'avvento delle nuove tecnologie ha generato nuovi modi di vivere e di relazionarsi con gli altri e con il mondo. Insieme allo sviluppo di nuovi dispositivi si sono generati nuovi modi di inquinamento, da quelli più evidenti strettamente connessi ai materiali di costruzione e quindi alla loro dismissione, ad altri, a volte poco visibili se non per nulla percepiti come tali. Il progetto intende porre l'attenzione su questo secondo tipo di inquinamento e modifica sul mondo dato dall'uso smodato del digitale. Come espresso nell'articolo _*"Smartphone are killing the world"*_, oltre appunto ai materiali per la costruzione, gli smartphone e le interazioni digitali stanno generando un cambiamento sull'ambiente circostante. Come? Quasi tutte le interazioni compiute online, dal refresh di una pagina web al singolo post su instagram, hanno bisogno di macchine che eseguono calcoli, i quali richiedono energia e dunque di conseguenza inquinano al pari di un'automobile. Ecco dunque che azioni digitali e quindi per loro natura intangibili diventano in un attimo tangibili. Si rende dunque necessaria una nuova educazione ecologica al consumo del digitale. 
 
-Partendo da questo punto di vista, si è voluto generare un sistema che renda evidenti il modo in cui le interazioni digitali altrimenti invisibili creano un loro impatto sul mondo. 
+Partendo da questo punto di vista, si è pensato un progetto che renda evidenti il modo in cui le interazioni del mondo digitalie, altrimenti invisibili, creano un loro impatto sul mondo reale. 
 Il progetto prevede un'istallazione posta al centro di una stanza dal soffitto più o meno alto.
-Un software di web scraping va a ricercare e leggere gli hashtag relativi al tema #green #nature e sul preservare la natura. Ogni qualvolta il software legge un hashtag manda un impulso ad arduino che va ad attivare l'elettropompa che rilascia inchiostro nero sull'ambiente sottostante. 
+Al centro della stanza attaccato al soffitto vi è un barile di petrolio vuoto al cui interno è posto un contenitore contenente dell'inchiostro(nero?), un arduino, un elettropompa collegata ad una serpentina che va all'esterno.
+Al di sotto del barile è posta una vasca di plastica trasparente contenente dell'acqua e al cui centro è posta una pianta.
+Un software di web scraping va a ricercare e leggere gli hashtag relativi al tema #green #nature e relativi al preservare la natura, al tutelarla e prendersi cura di essa. Ogni qualvolta il software legge un hashtag manda un impulso ad arduino che va ad attivare l'elettropompa che rilascia inchiostro nero sull'ambiente sottostante. 
+L'istallazione partirà da una condizione di pulizia legata al concetto di benessere e finirà con la contaminazione dell'acqua e la relativa morte della pianta, portandosi dietro i significati connessi all'inquinamento.
+
 
 **Componenti del progetto**<br>
 * Barile da petrolio + Contenitore per liquidi
