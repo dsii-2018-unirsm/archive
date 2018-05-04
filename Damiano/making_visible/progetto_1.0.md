@@ -6,7 +6,10 @@
 **Parole Chiave**<br>Azione-->Reazione-->Cambiamento
 
 **CONCEPT**<br>
->
+>L'avvento delle nuove tecnologie ha generato nuovi modi di vivere e di relazionarsi con gli altri e con il mondo. Insieme allo sviluppo di nuovi dispositivi si sono generati nuovi modi di inquinamento, da quelli più evidenti strettamente connessi ai materiali di costruzione e quindi alla loro dismissione, ad altri, a volte poco visibili se non per nulla percepiti come tali. Il progetto intende porre l'attenzione su questo secondo tipo di inquinamento e modifica sul mondo. Come espresso nell'articolo _*"Smartphone are killing the world"*_, oltre appunto ai materiali per la costruzione, gli smartphone e le interazioni digitali stanno generando un cambiamento sull'ambiente circostante. Come? Quasi tutte le interazioni compiute online per conto di
+
+Il progetto intende rendere visibile l'impatto generat
+Come rendere visibile l'inquinamento prodotto dalle nuove tecnologie
 
 
 
