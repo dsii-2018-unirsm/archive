@@ -36,8 +36,11 @@
 
 - **Relazioni** --> Uomini/ natura/ orizzonti
 - **Cambiamento/movimento** -->  Impatto/ cambiamento /natura /uomini/ dinamiche
+- **Orizzonti**  -->relazioni/uomini/cose/punti di vista
 - **invisibile/percepibile** -->invisibile/suono/movimento organismi/pensiero
--**impatto**
+
+### Focus
+**AZIONE-->REAZIONE-->CAMBIAMENTO**
 ----
 
 ## **Riferimenti & idee**
@@ -61,20 +64,6 @@ Truly collective, this emotive artwork grew in size with each very personal cont
 ###### #relazioni #cambiamento #orizzonti #invisibile/percepibile?
 - **The signs**(Grey world) [+](https://vimeo.com/50434125)
 
-
-
-
-###### #sound #invisibile #relazioni
-- **Sound of Sun**[+](https://vimeo.com/258459514)
->A sound visualization of planets and things made with processing
-
-
-###### #invisibile #relazioni #Orizzonti
-- **In the Eyes of the Animal** [+](http://www.creativeapplications.net/maxmsp/in-the-eyes-of-the-animal-mlf-virtualise-a-forest-through-the-eyes-of-its-creatures/)
->MLF virtualise a forest through the eyes of its creatures.
-The project takes visitors on a fascinating journey that allows them to fly above the forest canopy, come face-to-face with hi-definition critters and embody various animals as they traverse the Grizedale landscape.
-
-
 ###### #invisibile #relazioni
 **Level green: ecological footprint /Art+Com** [+](https://artcom.de/en/project/level-green/)
 >LEVEL GREEN, 2009
@@ -82,13 +71,8 @@ Autostadt, Wolfsburg, Germany
 
 >Sus­tain­abil­ity — though ubiq­ui­tous in dis­cus­sions of econ­omy, ecol­ogy and so­ci­ety — re­mains an elu­sive, ab­stract term. ART+COM trans­lated the topic, with­out a wag­ging fin­ger, into an ex­hi­bi­tion by break­ing down the com­plex con­cepts of sus­tain­abil­ity and trans­fer­ring them into tan­gi­ble ex­pe­ri­ences.
 
-###### #invisibile #relazioni #cambiamento
-**Palimpsest – Collective memory through Virtual Reality** [+](http://www.creativeapplications.net/unity-3d/palimpsest-collective-memory-through-virtual-reality/)
-> Palimpsest uses 3D scanning and virtual reality to record urban spaces and the communities that live in them. The project aims to question/test the implication if the past, present, and future city could exist in the same place, layering personal stories and local histories of the city at a 1:1 scale.
-Il progetto agisce su deu livelli: il primo è tenere traccia e stabilire una memora collettiva di uno spazio urbano in continuo CAMBIAMENTO. il secondo proporre delle alternative per il design urbano.
-
-
-
+###### #relazioni #cambiamento #azione #reazione
+- **Monument**(Caleb larsen) 
 
 ###### #cambiamento #orizzonti
 **Meta-perceptual helmets** [+](http://www.connolly-cleary.com/Home/helmets.html)
@@ -103,3 +87,10 @@ Il progetto agisce su deu livelli: il primo è tenere traccia e stabilire una me
 
 
 /////////////////////////////////////////////////////////
+###### #cambiamento #relazioni
+**smartphones are killing the world** [+](https://www.fastcodesign.com/90165365/smartphones-are-wrecking-the-planet-faster-than-anyone-expected)
+>The problem is that building a new smartphone–and specifically, mining the rare materials inside them–represents 85% to 95% of the device’s total CO2 emissions for two years. That means buying one new phone takes as much energy as recharging and operating a smartphone for an entire decade.
+Smartphones represent a fast-growing segment of ICT, but the overall largest culprit with regards to CO2 emissions belongs to servers and data centers themselves, which will represent 45% of ICT emissions by 2020. That’s because every Google search, every Facebook refresh, and every dumb Tweet we post requires a computer somewhere to calculate it all in the cloud. (The numbers could soon be even worse, depending on how popular cryptocurrencies get.) Here, the smartphone strikes again.
+
+//////////////////////////////////////////////////////////
+
