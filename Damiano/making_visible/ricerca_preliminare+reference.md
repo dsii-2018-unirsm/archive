@@ -74,16 +74,18 @@ Autostadt, Wolfsburg, Germany
 ###### #relazioni #cambiamento #azione #reazione
 - **Monument**(Caleb larsen) 
 
-###### #cambiamento #orizzonti
-**Meta-perceptual helmets** [+](http://www.connolly-cleary.com/Home/helmets.html)
-
 ###### #invisibile #relazioni
 **Cloud piano** [+](http://www.dwbowen.com/cloud-piano/)
 >this installation plays the keys of a piano based on the movements and shapes of the clouds. A camera pointed at the sky captures video of the clouds. Custom software uses the video of the clouds in real-time to articulate a robotic device that presses the corresponding keys on the piano.
 
+
+/////////////////////////////////////
 ###### #
 **Sensity** [+](http://www.stanza.co.uk/sensity/index.html)
 >A series of artworks based on connecting city spaces. The results are visualisations and sonifications of real time spaces using my own wireless sensor networks and environmental sensor technologies.
+
+###### #cambiamento #orizzonti
+**Meta-perceptual helmets** [+](http://www.connolly-cleary.com/Home/helmets.html)
 
 
 /////////////////////////////////////////////////////////
