@@ -14,9 +14,11 @@
 
 
 **Dati**<br>
->
+>Scraping API instagram
+HAshtag
 
-**Cos'è?**<br>>Un'istallazione che intende far riflettere sulle nostre azioni quotidiane, ponendo l'accento sull'uso smodato della tecnologia e su come essa stia generando un cambiamento del quale non ci rendiamo conto. Si è voluto mostrare come anche azioni innocue come il refresh di una pagina web generano inquinamento e quindi cambiamento nell'ambiente circostante.
+
+**Cos'è?**<br>Un'istallazione che intende far riflettere sulle nostre azioni quotidiane, ponendo l'accento sull'uso smodato della tecnologia e su come essa stia generando un cambiamento del quale non ci rendiamo conto. Si è voluto mostrare come anche azioni innocue come il refresh di una pagina web generano inquinamento e quindi cambiamento nell'ambiente circostante.
 
 **Come funziona?**<br>L'istallazione si compone di più parti: un barile da petrolio, una pianta, un software di scraping  che legge i dati da instagram, una elettropompa manovrata tramite arduino, un proiettore/display.
 
