@@ -11,9 +11,9 @@
 Partendo da questo punto di vista, si è voluto generare un sistema che renda visibile queste interazioni digitali altrimenti invisibili. Un software di web scraping va a ricercare e leggere gli hashtag relativi al tema #green #nature e sul preservare la natura. Ogni qualvolta il software legge un hashtag manda un impulso ad arduino che va a 
 
 **Dati**<br>
->Scraping API instagram
->Hashtag
->Post instagram
+>Scraping API instagram<br>
+>Hashtag<br>
+>Post instagram<br>
 
 **Cos'è?**<br>Un'istallazione che intende far riflettere sulle nostre azioni digitali quotidiane, ponendo l'accento sull'uso smodato della tecnologia e su come essa stia generando un cambiamento del quale non ci rendiamo conto. Si è voluto mostrare come anche azioni innocue come il refresh di una pagina web generano inquinamento e quindi cambiamento nell'ambiente circostante.
 
