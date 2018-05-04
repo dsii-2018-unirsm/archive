@@ -41,17 +41,6 @@ persona è l'imprecisione, se due persone intendono percorrere le stesse tappe,
 e il percorso è generato da un algoritmo, probabilmente verrà suggerita loro la stessa
 identica soluzione.
 
-## Concept
-L'obiettivo è quello di visualizzare i luoghi e le relazioni che le persone hanno
-con essi, fornendo gli strumenti per rileggere la propria esperienza quotidiana
-con lo spazio inteso come la somma dei due elementi opposti, vuoto e pieno, che ne
-delimita e definisce le caratteristiche.
-Nello stesso modo in cui la prossemica analizza come l'uomo utilizza lo spazio
-per comunicare con altre persone, ** hidden relations ** enfatizza e visualizza
-come l'uomo si relaziona alle città definendo personali confini, connessioni e
-abitudini del vivere lo spazio pubblico.
-
-
 
 ## casi studio
 #### The New Velocity – The faulty consistency of cartography [+](http://www.creativeapplications.net/openframeworks/the-new-velocity-the-faulty-consistency-of-cartography/)
@@ -68,11 +57,6 @@ sono tese da una parte e tirate dall'atra, rivelando l'ordine da una parte e il 
 dall'altra. L'ordine e il chaos sono rappresentati in un fragile equilibrio in un
 contesto formale dove ogni elemento ha la sua funzionalità.
 
-
-
-La riappropriazione della città
-
-
 #### La riappropriazione della città: i propri itinerari [+](https://www.facebook.com/ugolapietra/posts/10155024897708388)
 riprendendo la ricerca degli anni Settanta sulla "Riappropriazione della città",
  propone per la mostra Take me (I'm yours) un esercizio che invita il pubblico a tracciare
@@ -83,6 +67,15 @@ con la doppia firma di Ugo La Pietra e la propria .
 
 “Take Me (I’m Yours)” è una mostra collettiva che reinventa le regole con cui si fa esperienza di un’opera d’arte. Rompendo ogni canone, i visitatori di “Take Me (I’m Yours)” sono invitati a compiere tutto quanto è di norma vietato fare in un museo: i lavori si possono toccare, usare o modificare; si possono consumare o indossare; si possono comprare e perfino prendere gratuitamente, o magari portare via lasciando in cambio cimeli personali.
 
+## Concept
+L'obiettivo è quello di visualizzare i luoghi e le relazioni che le persone hanno
+con essi, fornendo gli strumenti per rileggere la propria esperienza quotidiana
+con lo spazio inteso come la somma dei due elementi opposti, vuoto e pieno, che ne
+delimita e definisce le caratteristiche.
+Nello stesso modo in cui la prossemica analizza come l'uomo utilizza lo spazio
+per comunicare con altre persone, ** hidden relations ** enfatizza e visualizza
+come l'uomo si relaziona alle città definendo personali confini, connessioni e
+abitudini del vivere lo spazio pubblico.
 
 ## dataset
 Hidden relations utilizza i dati relativi agli spostamenti registrati dalla
