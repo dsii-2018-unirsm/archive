@@ -31,7 +31,7 @@ L'istallazione partirà da una condizione di pulizia legata al concetto di benes
 **Dati**<br>
 * Scraping API instagram<br>
 * Hashtag<br>
-* Post instagram<br>
+* Post instagram<br><br>
 
 **Cos'è?**<br>
 Un'istallazione che intende far riflettere sulle nostre azioni digitali quotidiane, ponendo l'accento sull'uso smodato della tecnologia e su come essa stia generando un cambiamento del quale non ci rendiamo conto. Si è voluto mostrare come anche azioni innocue come il refresh di una pagina web generano inquinamento e quindi cambiamento nell'ambiente circostante.
