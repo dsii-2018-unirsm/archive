@@ -22,7 +22,7 @@ Partendo da questo punto di vista, si è voluto generare un sistema che renda vi
 **Cosa significa?**<br>Significa voler richiamare l'attenzione sul fatto che anche le nuove tecnologie e l'uso smodato di esse sta generando cambiamenti che al pari dell'inquinamento "tradizionale" (mi si passi il termine) stanno avendo un impatto notevole sul mondo.
 
 **Cosa succederebbe se?**<br>
-Se ci fossero 
+Inserire altre idee, acqua, pianta etc etc
 
 
 **DESIGN FICTION**
