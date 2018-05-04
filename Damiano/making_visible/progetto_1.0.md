@@ -45,8 +45,8 @@ Significa voler richiamare l'attenzione sul fatto che anche le nuove tecnologie 
 **Cosa succederebbe se?**<br>
 Se al posto dell'inchiostro nero si facesse uso di uno fluorescente si potrebbe giocare sul contrasto visibile invisibile ancora di più. Luce accesa situazione di stasi e normalità, sembra quasi che l'inchiostro nutra la pianta ad ogni hashtag. Luce spenta si vede l'impatto e l'inquinamento, avvelenamento, relativo.
 
-**DESIGN FICTION**
-Nel 2050 non esistono più le 
+**DESIGN FICTION**<br>
+Nel 2050 visto l'enorme inquinamento creato dalle nuove tecnologie, l'uomo ha impiantato un sistema tecnologico miniaturizzato per cui ogni refresh di pagina, ogni post viene tassato e ogni azione viene meditata.
 
 
 
@@ -54,7 +54,7 @@ Nel 2050 non esistono più le
 
 **Articolo spunto**<br>
 **Smartphones are killing the world** [+](https://www.fastcodesign.com/90165365/smartphones-are-wrecking-the-planet-faster-than-anyone-expected)
->The problem is that building a new smartphone–and specifically, mining the rare materials inside them–represents 85% to 95% of the device’s total CO2 emissions for two years. That means buying one new phone takes as much energy as recharging and operating a smartphone for an entire decade.
+The problem is that building a new smartphone–and specifically, mining the rare materials inside them–represents 85% to 95% of the device’s total CO2 emissions for two years. That means buying one new phone takes as much energy as recharging and operating a smartphone for an entire decade.
  __*Smartphones represent a fast-growing segment of ICT, but the overall largest culprit with regards to CO2 emissions belongs to servers and data centers themselves, which will represent 45% of ICT emissions by 2020. That’s because every Google search, every Facebook refresh, and every dumb Tweet we post requires a computer somewhere to calculate it all in the cloud. (The numbers could soon be even worse, depending on how popular cryptocurrencies get.) Here, the smartphone strikes again.*__
 
 //////////////////////////////////////////////////////////<br>
