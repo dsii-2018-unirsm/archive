@@ -13,7 +13,7 @@ Il progetto prevede un'istallazione posta al centro di una stanza dal soffitto p
 Al centro della stanza attaccato al soffitto vi è un barile di petrolio vuoto al cui interno è posto un contenitore contenente dell'inchiostro(nero?), un arduino, un elettropompa collegata ad una serpentina che va all'esterno.
 Al di sotto del barile è posta una vasca di plastica trasparente contenente dell'acqua e al cui centro è posta una pianta.
 Un software di web scraping va a ricercare e leggere gli hashtag relativi al tema #green #nature e relativi al preservare la natura, al tutelarla e prendersi cura di essa. Ogni qualvolta il software legge un hashtag manda un impulso ad arduino che va ad attivare l'elettropompa che rilascia inchiostro nero sull'ambiente sottostante. In contemporanea sul barile viene proiettato l'hashtag corrente che ha generato la goccia oppure con display viene mostrato il post con relativo hashtag.
-L'istallazione partirà da una condizione di pulizia legata al concetto di benessere e finirà con la contaminazione dell'acqua e la relativa morte della pianta, portandosi dietro i significati connessi all'inquinamento.
+L'istallazione partirà da una condizione di pulizia legata al concetto di benessere e finirà con la contaminazione dell'acqua e la relativa morte della pianta, portandosi dietro i significati connessi all'inquinamento e alla morte della natura ribaltando il senso stesso delle azioni digitali degli utenti.
 
 ![A](https://i.imgur.com/Wc8RL5Am.png)
 
@@ -37,18 +37,16 @@ L'istallazione partirà da una condizione di pulizia legata al concetto di benes
 Un'istallazione che intende far riflettere sulle nostre azioni digitali quotidiane, ponendo l'accento sull'uso smodato della tecnologia e su come essa stia generando un cambiamento del quale non ci rendiamo conto. Si è voluto mostrare come anche azioni innocue come il refresh di una pagina web generano inquinamento e quindi cambiamento nell'ambiente circostante.
 
 **Come funziona?**<br>
-L'istallazione si compone di più parti: un barile da petrolio, una pianta, un software di scraping  che legge i dati da instagram, una elettropompa manovrata tramite arduino, un proiettore/display.
+L'istallazione si compone di più parti: un barile da petrolio, una vasca trasparente d'acqua, una pianta, un software di scraping  che legge i dati da instagram, una elettropompa manovrata tramite arduino, un proiettore/display.
 
 **Cosa significa?**<br>
 Significa voler richiamare l'attenzione sul fatto che anche le nuove tecnologie e l'uso smodato di esse sta generando cambiamenti che al pari dell'inquinamento "tradizionale" (mi si passi il termine) stanno avendo un impatto notevole sul mondo.
 
 **Cosa succederebbe se?**<br>
-Inserire altre idee, acqua, pianta etc etc
-
+Se al posto dell'inchiostro nero si facesse uso di uno fluorescente si potrebbe giocare sul contrasto visibile invisibile ancora di più. Luce accesa situazione di stasi e normalità, sembra quasi che l'inchiostro nutra la pianta ad ogni hashtag. Luce spenta si vede l'impatto e l'inquinamento, avvelenamento, relativo.
 
 **DESIGN FICTION**
-
-
+Nel 2050 non esistono più le 
 
 
 
