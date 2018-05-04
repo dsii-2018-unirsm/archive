@@ -15,7 +15,7 @@ Al di sotto del barile è posta una vasca di plastica trasparente contenente del
 Un software di web scraping va a ricercare e leggere gli hashtag relativi al tema #green #nature e relativi al preservare la natura, al tutelarla e prendersi cura di essa. Ogni qualvolta il software legge un hashtag manda un impulso ad arduino che va ad attivare l'elettropompa che rilascia inchiostro nero sull'ambiente sottostante. 
 L'istallazione partirà da una condizione di pulizia legata al concetto di benessere e finirà con la contaminazione dell'acqua e la relativa morte della pianta, portandosi dietro i significati connessi all'inquinamento.
 
-![A](https://i.imgur.com/Wc8RL5A.png)
+![A](https://i.imgur.com/Wc8RL5Am.png)
 
 **Componenti del progetto**<br>
 * Barile da petrolio + Contenitore per liquidi
