@@ -14,7 +14,7 @@ Tale scultura avrebbe generato loro un cambiamento, che avrebbe influenzato la z
 **Alva Noto / Carsten Nicolai**
 
 Carsten Nicolai, meglio conosciuto con lo pseudonimo Alva Noto, è un artista e compositore tedesco specializzato in opere audiovisive, un vero genio dell'informatica. Durante la sua carriera d'artista si é imbatutto in quella che molti definiscono cimatica, cioé lo studio delle onde sonore. Il suono di per se é un onda che viaggia nello spazio circostante e che entra in contatto con gli oggetti intorno ad essa, di conseguenza tali oggetti saranno influenzati dal suono generato, e quindi inizieranno a vibrare. Facendo uso della grafica generativa e della musica, Alva Noto é riuscito a creare diverse composizioni artistiche  basate su algoritmi e figure geometriche, generate dagli strumenti musicali.
-<img src="membrana/mutek.jpg"/>
+<img src="/making visible/membrana/mutek.jpg"/>
 
 **Christopher Bauder & Robert Henke DEEP WEB**
 
@@ -29,14 +29,14 @@ Questi due personaggi sono riusciti a creare una struttura cinetica futuristica.
 É l'organizzazione che sta dietro ai piú numerosi e valorosi progetti artistici di:
 Design / Arte digitale / Arti plastiche / Danza / Musica / Illuminazione / Fotografia / Video
 
-<img src="membrana/img6.jpg"/>
+<img src="/making visible/membrana/img6.jpg"/>
 
 
 **Brookline Janet Echelman**
 
 Janet Echelman artista/design, é stato riconosciuto per aver creato delle immense strutture fluttuanti che sovrastavano e occupavano lo spazio aereo circostante. Tali sculture sono piú che altro elementi artistici; probabilmente l'intento dell'artista era quello di valorizzare determinati posti della cittá dove la gente passava volentieri ogni giorno, ma non riusciva piú a cogliere la conformitá del luogo e ció che li circondava. Per questo tali megastrutture potevano valorizzare un luogo perduto da tempo nella sua monotonia quotidiana. Queste opere invadevano proprio lo spazio dove erano collocate e attraverso il loro sexappel riuscivano a catturare l'attenzione del pubblico creando cosi dei veri e propri punti di ritrovo attorno alla megastruttura.<br/>
-<img src="membrana/img4.jpg"/>
-<img src="membrana/img5.png"/>
+<img src="/making visible/membrana/img4.jpg"/>
+<img src="/making visible/membrana/img5.png"/>
 
 
 sito internet
@@ -51,13 +51,13 @@ La mia idea era quella di portare le persone a interagire con la tecnologia stes
 L'idea é nata dal fatto che noi tutti ormai siamo diventati social dipendenti, o selfie dipendenti, l'interazione umana tra diversi soggetti oramai si é persa da tempo. Quello che volevo sviluppare era un monolita coperto da un membrana che potesse simulare la pelle umana e che potesse essere plasmabile con il suono generato dal monolitá,e dalla frequenza delle diverse note musicali.<br/>
 
 **img.1**
-<img src="membrana/img.jpg"/>
+<img src="/making visible/membrana/img.jpg"/>
 **img.2**
-<img src="membrana/img1.jpg"/>
+<img src="/making visible/membrana/img1.jpg"/>
 **Onde sonore**
-<img src="membrana/img3.jpg"/>
+<img src="/making visible/membrana/img3.jpg"/>
 **Pelle**
-<img src="membrana/img7.jpg"/>
+<img src="/making visible/membrana/img7.jpg"/>
 
 **Cos é?**
 Una struttura interattiva che prende i dati dell'utente dal social ECHO(share music) e ne crea una interfaccia (l'immagine del profilo, oppure un'altra immagine caricata dall'utente stesso, o niente), interattiva che si plasma a seconda della musica che viene caricata o condivisa nel social network.
@@ -73,10 +73,10 @@ Se questa struttura fosse in grado di modificarsi a tal punto di ricreare verosi
 
 **Mutaforma**<br/>
 Si riferisce alla capacità di un essere vivente di assumere sembianze di un'altra persona o di un animale.
-<img src="membrana/img8.jpg"/>
+<img src="/making visible/membrana/img8.jpg"/>
 **Metamorfosi**<br/>
 Trasformazione di un essere o di un oggetto in un altro di natura diversa.
-<img src="membrana/img9.jpg"/>
+<img src="/making visible/membrana/img9.jpg"/>
 
 **Design Fiction**<br/>
 Tra vent'anni forse saremo tutti dentro una realtá virtuale, molto piú immersiva e reale. Membrane si sará evoluto cosi tanto da poter avere un'interfaccia reale sua e potrebbe essere diventato una struttura in grado di dialogare con noi e aiutarci nel percorso della nostra vita. Simile a una sentinella che ci mette all' allerta sulle conseguenze future, e sul nostro destino.
