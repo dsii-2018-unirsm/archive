@@ -122,9 +122,10 @@ AR <br>
 [+](https://www.focus.it/tecnologia/tecno-prodotti/originali-graffiti-e-vignette-in-realta-aumentata) <br>
 [wallame](https://itunes.apple.com/app/id963058537) <br>
 
+
+
 __________________________________________________________________________________________________________________________________________
 <br>
-
 
 **REVISIONE 27.4.18** 
 <br>
@@ -164,7 +165,7 @@ ESEMPI: <br>
 --> **TEATRO COME LUOGO CHE PRODUCE CULTURA (produzione, scambio, riflessione)** <br> 
 - come trasmettere cultura? <br> <br> 
 
-------
+- - - - - -
 
 Idee: <br>
 1 - **teatro come luogo che genera cultura + archivio + allungare la vita degli spettacoli + possibilità di "andare a teatro" anche quando è chiuso** (quindi anche da chiuso continua a generare cultura) --> diffondere i contenuti archiviati (output generato dagli spettacoli) **in giro per la città** --> in questo modo più persone possono entrare a conoscenza dei contenuti culturali che il teatro ospita. --> A. output fisici - B. output digitali <br>
@@ -181,7 +182,7 @@ Idee: <br>
 *ricerca riferimenti*: <br>
 http://www.creativeapplications.net/js/three-js/sun-suns-cycle-as-an-interactive-playful-experience/
 
-------
+- - - - - -
 
 *utilities*: <br>
 [Linked-Data-Theater](https://github.com/architolk/Linked-Data-Theatre) <br>
@@ -189,9 +190,9 @@ http://www.creativeapplications.net/js/three-js/sun-suns-cycle-as-an-interactive
 <br>
 
 
+
 __________________________________________________________________________________________________________________________________________
 <br>
-
 
 **REVISIONE 7.5.18** 
 <br>
@@ -212,7 +213,8 @@ ________________________________________________________________________________
 - Come ci si accede? <br>
 - In che modo sono consultabili / ci si interagisce? <br>
 
-------
+- - - - - -
+
 * PROTOTIPO
 - *Distributore* (arduino) --> stampante di scontrini + display a cristalli liquidi (?) + bottone + audio (?) <br>
 - *Biglietto* (+ processing) --> algoritmo che stampa a caso <br>
