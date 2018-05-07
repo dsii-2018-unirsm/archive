@@ -52,7 +52,8 @@ Reddit è la *badland*.<br>
 **reference**<br>
 personal Knowledge database, Santiago Ortiz [+](http://intuitionanalytics.com/other/knowledgeDatabase/#i=256)<br>
 Map of Tenderness [+](https://media.gucci.com/content/DiaryHeroArticle_Standard_1600x812/1445360417/DiaryHeroArticle_issue03-map_001_Default.jpg)<br>
-Dreams [+](http://dreams.mediamolecule.com/)
+Dreams, Media Molecule [+](http://dreams.mediamolecule.com/)
 <br> Realtime Reddit API (demo app) [+](http://files.pushshift.io/reddit/) [+](http://realtime-reddit-demo.herokuapp.com/) [+](https://github.com/pusher-community/pusher-realtime-reddit-demo)
-<br> Generating fantasy maps [+](http://mewo2.com/notes/terrain/)
-<br> Uncharted Atlas [+](https://twitter.com/unchartedatlas)
+<br> Generating fantasy maps & naming languages, Martin O'Leary [+](http://mewo2.com/notes/terrain/) [+](http://mewo2.com/notes/naming-language/)
+<br> Uncharted Atlas, Martin O'Leary [+](https://twitter.com/unchartedatlas)
+<br> Planet, Oskar Stålberg [+](http://oskarstalberg.com/game/planet/planet.html)
