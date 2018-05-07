@@ -50,7 +50,7 @@ Sebbene non si tratti di un progetto legato alla cartografia in senso stretto, O
 <br>
 ***dataset*** <br>
 
- L'acquisizione dei dati avviene attraverso le API di Instagram. [+](https://github.com/mgp25/Instagram-API/blob/master/src/Request/Story.php) [+](https://github.com/CaliAlec/ChromeIGStory) [+](https://github.com/siongui/goigstorylink) [+](https://isdb.pw/about.html) [+](https://stackoverflow.com/questions/44318751/getting-instagram-story-in-php) <br> 
+ L'acquisizione dei dati avviene attraverso le API di Instagram. [+](https://github.com/mgp25/Instagram-API/blob/master/src/Request/Story.php) [+](https://github.com/CaliAlec/ChromeIGStory) [+](https://medium.com/@calialec/chrome-ig-story-bribing-the-instagram-story-api-with-cookies-c813e6dff911) [+](https://github.com/siongui/goigstorylink) [+](https://isdb.pw/about.html) [+](https://stackoverflow.com/questions/44318751/getting-instagram-story-in-php) <br> 
 Elenco dei dati reperibili: <br>
 dati per ciascun utente:<br>
 nome utente (ha pubblicato una story: sì / no) <br>
