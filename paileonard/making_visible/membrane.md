@@ -15,7 +15,7 @@ Tale scultura avrebbe generato loro un cambiamento, che avrebbe influenzato la z
 
 Carsten Nicolai, meglio conosciuto con lo pseudonimo Alva Noto, è un artista e compositore tedesco specializzato in opere audiovisive, un vero genio dell'informatica. Durante la sua carriera d'artista si é imbatutto in quella che molti definiscono cimatica, cioé lo studio delle onde sonore. Il suono di per se é un onda che viaggia nello spazio circostante e che entra in contatto con gli oggetti intorno ad essa, di conseguenza tali oggetti saranno influenzati dal suono generato, e quindi inizieranno a vibrare. Facendo uso della grafica generativa e della musica, Alva Noto é riuscito a creare diverse composizioni artistiche  basate su algoritmi e figure geometriche, generate dagli strumenti musicali.
 
-![](/membrana/mutek.jpg)
+![](membrana/mutek.jpg)
 
 **Christopher Bauder & Robert Henke DEEP WEB**
 
@@ -30,7 +30,7 @@ Questi due personaggi sono riusciti a creare una struttura cinetica futuristica.
 É l'organizzazione che sta dietro ai piú numerosi e valorosi progetti artistici di:
 Design / Arte digitale / Arti plastiche / Danza / Musica / Illuminazione / Fotografia / Video
 
-![](/making_visible/membrana/img6.jpg)
+![](membrana/img6.jpg)
 
 
 
@@ -38,9 +38,8 @@ Design / Arte digitale / Arti plastiche / Danza / Musica / Illuminazione / Fotog
 
 Janet Echelman artista/design, é stato riconosciuto per aver creato delle immense strutture fluttuanti che sovrastavano e occupavano lo spazio aereo circostante. Tali sculture sono piú che altro elementi artistici; probabilmente l'intento dell'artista era quello di valorizzare determinati posti della cittá dove la gente passava volentieri ogni giorno, ma non riusciva piú a cogliere la conformitá del luogo e ció che li circondava. Per questo tali megastrutture potevano valorizzare un luogo perduto da tempo nella sua monotonia quotidiana. Queste opere invadevano proprio lo spazio dove erano collocate e attraverso il loro sexappel riuscivano a catturare l'attenzione del pubblico creando cosi dei veri e propri punti di ritrovo attorno alla megastruttura.<br/>
 
-![](/making_visible/membrana/img4.jpg)
-
-![](/making_visible/membrana/img5.jpg)
+![](membrana/img4.jpg)
+[Imgur](https://i.imgur.com/9JflBzN.png)
 
 sito internet<br/>
 https://www.lumenpulsegroup.com/projects/132/greenway-echelman-sculpture?region=meaf
@@ -56,19 +55,19 @@ L'idea é nata dal fatto che noi tutti ormai siamo diventati social dipendenti, 
 
 **img.1**<br/>
 
-![](/making_visible/membrana/img.jpg)
+![](membrana/img.jpg)
 
 **img.2**<br/>
 
-![](/making_visible/membrana/img1.jpg)
+![](membrana/img1.jpg)
 
 **Onde sonore**<br/>
 
-![](/making_visible/membrana/img3.jpg)
+![](membrana/img3.jpg)
 
 **Pelle**<br/>
 
-![](/making_visible/membrana/img7.jpg)
+![](membrana/img7.jpg)
 
 
 **Cos é?**
@@ -86,12 +85,12 @@ Se questa struttura fosse in grado di modificarsi a tal punto di ricreare verosi
 **Mutaforma**<br/>
 Si riferisce alla capacità di un essere vivente di assumere sembianze di un'altra persona o di un animale.
 
-![](/making_visible/membrana/img8.jpg)
+![](membrana/img8.jpg)
 
 **Metamorfosi**<br/>
 Trasformazione di un essere o di un oggetto in un altro di natura diversa.
 
-![](/making_visible/membrana/img9.jpg)
+![](membrana/img9.jpg)
 
 **Design Fiction**<br/>
 Tra vent'anni forse saremo tutti dentro una realtá virtuale, molto piú immersiva e reale. Membrane si sará evoluto cosi tanto da poter avere un'interfaccia reale sua e potrebbe essere diventato una struttura in grado di dialogare con noi e aiutarci nel percorso della nostra vita. Simile a una sentinella che ci mette all' allerta sulle conseguenze future, e sul nostro destino.
