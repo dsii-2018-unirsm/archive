@@ -185,3 +185,31 @@ Idee: <br>
 
 *ricerca riferimenti*: <br>
 http://www.creativeapplications.net/js/three-js/sun-suns-cycle-as-an-interactive-playful-experience/
+
+
+__________________________________________________________________________________________________________________________________________
+**REVISIONE 7.5.18** 
+<br>
+
+1. DISTRIBUTORE * <br>
+- Come è fatto? ha un display? emette audio degli spettacoli? fa una proiezione? <br> 
+- Dove è? davanti al teatro o in **giro per la città**? <br> 
+- Deve attirare l'attenzione <br> 
+- Potrebbe ricordare una macchina del tempo --> potrebbe raffigurare o smentire degli stereotipi visivi <br> 
+<br> 
+2. BIGLIETTO --> è il mezzo per rivivere il *passato* <br>
+- Com'è fatto? uguale a quelli veri? <br>
+- C'è stampata una **frase dello spettacolo**? o una frase scritta da uno spettatore? <br>
+- Che valore ha oggi? può lasciare contenuti per il *futuro*? <br>
+<br>
+3. CONTENUTI <br>
+- Quali? <br>
+- Come ci si accede? <br>
+- In che modo sono consultabili / ci si interagisce? <br>
+
+------
+* PROTOTIPO
+- *Distributore* (arduino) --> stampante di scontrini + display a cristalli liquidi (?) + bottone + audio (?) <br>
+- *Biglietto* (+ processing) --> algoritmo che stampa a caso <br>
+
+
