@@ -21,6 +21,9 @@ reddit API [+](https://www.reddit.com/dev/api)
 <br>reddit JSON [+](https://github.com/reddit-archive/reddit/wiki/JSON)
 <br>pushshift reddit directory contents [+](http://files.pushshift.io/reddit/)
 
+aggiungendo `top.json` al URL di un singolo subreddit è possibile leggerne (alcuni) dati. Al posto di `top` è possibile scrivere `hot`, `new`, o `controversial`. Quando si sua `top` è possibile risalire a dati specifici aggiungendo `?t=day` alla fine del URL per risalire al top post del giorno. Altri valori validi sono: `hour`, `day`, `week`, `month`, `year`, o `all`.
+<br> es: https://www.reddit.com/r/lifeisstrange/top.json
+
 Reddit è la *badland*.<br>
 • Ogni subreddit costituisce una città, un insediamento.<br>
 • Il nome del subreddit dà il nome alla città.<br>
