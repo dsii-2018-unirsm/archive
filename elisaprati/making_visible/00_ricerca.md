@@ -165,7 +165,6 @@ ESEMPI: <br>
 --> **TEATRO COME LUOGO CHE PRODUCE CULTURA (produzione, scambio, riflessione)** <br> 
 - come trasmettere cultura? <br> <br> 
 
-- - - - - -
 
 Idee: <br>
 1 - **teatro come luogo che genera cultura + archivio + allungare la vita degli spettacoli + possibilità di "andare a teatro" anche quando è chiuso** (quindi anche da chiuso continua a generare cultura) --> diffondere i contenuti archiviati (output generato dagli spettacoli) **in giro per la città** --> in questo modo più persone possono entrare a conoscenza dei contenuti culturali che il teatro ospita. --> A. output fisici - B. output digitali <br>
@@ -177,12 +176,13 @@ Idee: <br>
 [NO] 2. si rende visibile l'interno del teatro attraverso la proiezione delle ombre (come???)<br>
 <br>
 
-<br>
+<br> <br> <br> 
 
 *ricerca riferimenti*: <br>
 http://www.creativeapplications.net/js/three-js/sun-suns-cycle-as-an-interactive-playful-experience/
 
-- - - - - -
+
+<br> <br> <br> 
 
 *utilities*: <br>
 [Linked-Data-Theater](https://github.com/architolk/Linked-Data-Theatre) <br>
@@ -213,7 +213,7 @@ ________________________________________________________________________________
 - Come ci si accede? <br>
 - In che modo sono consultabili / ci si interagisce? <br>
 
-- - - - - -
+<br> <br>
 
 * PROTOTIPO
 - *Distributore* (arduino) --> stampante di scontrini + display a cristalli liquidi (?) + bottone + audio (?) <br>
