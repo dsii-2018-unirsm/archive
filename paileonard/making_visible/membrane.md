@@ -15,7 +15,7 @@ Tale scultura avrebbe generato loro un cambiamento, che avrebbe influenzato la z
 
 Carsten Nicolai, meglio conosciuto con lo pseudonimo Alva Noto, è un artista e compositore tedesco specializzato in opere audiovisive, un vero genio dell'informatica. Durante la sua carriera d'artista si é imbatutto in quella che molti definiscono cimatica, cioé lo studio delle onde sonore. Il suono di per se é un onda che viaggia nello spazio circostante e che entra in contatto con gli oggetti intorno ad essa, di conseguenza tali oggetti saranno influenzati dal suono generato, e quindi inizieranno a vibrare. Facendo uso della grafica generativa e della musica, Alva Noto é riuscito a creare diverse composizioni artistiche  basate su algoritmi e figure geometriche, generate dagli strumenti musicali.
 
-![](/making_visible/membrana/mutek.jpg)
+![](/membrana/mutek.jpg)
 
 **Christopher Bauder & Robert Henke DEEP WEB**
 
