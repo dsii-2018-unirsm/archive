@@ -139,7 +139,7 @@ ________________________________________________________________________________
 - archiviazione <br> 
 - stratificazione <br> <br> 
 
-*possibilità*: <br> 
+*Possibilità*: <br> 
 - AR: far vedere qualcosa che c'è dentro <br> 
 - contenuti consultsbili su sito? oppure quando vado sul luogo vedo dei contenuti aggiuntivi? <br> 
 - durante lo spettacolo o anche prima/dopo? <br> 
