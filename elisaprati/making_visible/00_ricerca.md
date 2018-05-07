@@ -121,7 +121,12 @@ AR <br>
 [Second Surface](http://www.creativeapplications.net/openframeworks/second-surface-multi-user-spatial-collaboration-system/) <br>
 [+](https://www.focus.it/tecnologia/tecno-prodotti/originali-graffiti-e-vignette-in-realta-aumentata) <br>
 [wallame](https://itunes.apple.com/app/id963058537) <br>
+
 __________________________________________________________________________________________________________________________________________
+<br>
+__________________________________________________________________________________________________________________________________________
+<br>
+
 **REVISIONE 27.4.18** 
 <br>
 
@@ -187,7 +192,10 @@ Idee: <br>
 http://www.creativeapplications.net/js/three-js/sun-suns-cycle-as-an-interactive-playful-experience/
 
 
+__________________________________________________________________________________________________________________________________________ <br>
 __________________________________________________________________________________________________________________________________________
+<br>
+
 **REVISIONE 7.5.18** 
 <br>
 
