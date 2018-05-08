@@ -48,6 +48,7 @@ Sviluppato dal centro di ricerca Cultural Analytics Lab di Manovich, il progetto
 Oh my () (Noriyuki Suzuki) [+](http://www.creativeapplications.net/arduino-2/oh-my-calling-for-god-in-48-languages-using-twitter-api/) <br>
 Sebbene non si tratti di un progetto legato alla cartografia in senso stretto, Oh my () rappresenta un'interessante spunto di riflessione sul tema del rendere udibile una parola detta in un dato momento. L'intento del progetto è quello di superare i confini delle differenze linguistiche sfruttando le potenzialità di Internet. Prendendo in esame la parola "God", simbolo di diversità religiose e raziali, gli speaker che compongono l'installazione pronunciano la parola nell'appropriata lingua ogni volta che questa compare nelle API di Twitter. Gli speaker sono disposti in modo tale che la lingua corrisponda alla posizione geografica in cui viene parlata.<br>
 <br>
+[+](https://mewo2.com/notes/terrain/)<br>
 ***dataset*** <br>
 
  L'acquisizione dei dati avviene attraverso le API di Instagram. [+](https://github.com/mgp25/Instagram-API/blob/master/src/Request/Story.php) [+](https://github.com/CaliAlec/ChromeIGStory) [+](https://medium.com/@calialec/chrome-ig-story-bribing-the-instagram-story-api-with-cookies-c813e6dff911) [+](https://github.com/siongui/goigstorylink) [+](https://isdb.pw/about.html) [+](https://stackoverflow.com/questions/44318751/getting-instagram-story-in-php) <br> 
