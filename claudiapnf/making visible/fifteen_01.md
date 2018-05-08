@@ -49,6 +49,7 @@ Oh my () (Noriyuki Suzuki) [+](http://www.creativeapplications.net/arduino-2/oh-
 Sebbene non si tratti di un progetto legato alla cartografia in senso stretto, Oh my () rappresenta un'interessante spunto di riflessione sul tema del rendere udibile una parola detta in un dato momento. L'intento del progetto è quello di superare i confini delle differenze linguistiche sfruttando le potenzialità di Internet. Prendendo in esame la parola "God", simbolo di diversità religiose e raziali, gli speaker che compongono l'installazione pronunciano la parola nell'appropriata lingua ogni volta che questa compare nelle API di Twitter. Gli speaker sono disposti in modo tale che la lingua corrisponda alla posizione geografica in cui viene parlata.<br>
 <br>
 Generating fantasy maps [+](https://mewo2.com/notes/terrain/)
+
 <br>
 ***dataset*** <br>
 
