@@ -153,3 +153,5 @@ intrattenimento. Esistono aree conosciute ma inesplorate.
 
 
 [Mappa.js](https://mappa.js.org/docs/using-data.html)
+
+[snazzy maps](https://snazzymaps.com/)
