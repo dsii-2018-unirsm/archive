@@ -146,3 +146,7 @@ su misura dell'utente. Attraverso la somma delle esperienze condivise con le pia
 i percorsi sono uniformati secondo la soddisfazione colletiva.
 I viaggi saranno fruibili tramite realtà virtuale e trasformati quindi in puro
 intrattenimento. Esistono aree conosciute ma inesplorate.
+
+
+## sitografia
+[Heat Map from Google Location ](https://towardsdatascience.com/create-a-heat-map-from-your-google-location-history-in-3-easy-steps-e66c93925914)
