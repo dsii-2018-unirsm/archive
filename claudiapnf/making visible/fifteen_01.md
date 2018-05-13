@@ -4,10 +4,6 @@
 #mapping <br> #ephemeral <br> #instagram stories
 <br>
 
-![](https://i.imgur.com/IhHJJo6.jpg)
-*Minimum monument, Néle Azevedo, 2009* [+](https://www.neleazevedo.com.br/minimum-monument)
-<br>
-<br>
 ***premessa***<br>
 
 La ricerca è iniziata con il voler approfondire l'interesse verso gli artefatti visivi condivisi da utenti più o meno autorevoli nell'ambito del design. Studi di progettazione o singoli freelancer che contribuiscono nel tempo a definire modalità di comunicazione e senso estetico. A rendere per così dire ufficiale questo tipo di pubblicazione, il feed del proprio profilo, luogo nel quale è possibile tener traccia dei propri lavori in maniera permanente. Un'operazione del genere, si tratti di un profilo istituzionale o amatoriale, può richiedere una seria progettazione del "cosa", "come", "quando" pubblicare. Si potrebbe dire che dietro la maggioranza dei post di questo genere ci sia una sorta di senso di responsabilità e attenzione a guidare l'utente, al fine di costruire con coerenza il proprio profilo. Il luogo dove ciò avviene è Instagram, uno dei social più utilizzati in questo senso che conta ad oggi circa 800 milioni di utenti attivi in tutto il mondo. Sulla base di queste premesse, la ricerca è proseguita pensando a tutti quei media della piattaforma che non sono soggetti a una tale attenzione poiché i loro contenuti, significativamente meno rilevanti, non trovano posto nel proprio feed. Da qui nasce una riflessione su quei contenuti che, seppur contribuendo a costruire la propria identità online, sono visti dai più come modi per sperimentare, rendere note le proprie attività e tenere i propri follower in qualche modo aggiornati.
