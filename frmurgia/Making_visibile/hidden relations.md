@@ -149,7 +149,7 @@ intrattenimento. Esistono aree conosciute ma inesplorate.
 
 
 ## sitografia
-[Heat Map from Google Location ](https://towardsdatascience.com/create-a-heat-map-from-your-google-location-history-in-3-easy-steps-e66c93925914)
+http://thymia.world/
 
 
 [Mappa.js](https://mappa.js.org/docs/using-data.html)
