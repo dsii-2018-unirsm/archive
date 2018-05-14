@@ -2,7 +2,7 @@
 anno | 2015 <br>
 autore | [Lucify](https://www.lucify.com) in collaborazione con [Ville Saarinen](https://blog.lucify.com/@vsaarinen) <br>
 articoli | [+](https://www.lucify.com/the-flow-towards-europe/) [+](https://blog.lucify.com/a-novel-visualisation-of-the-refugee-crisis-565e40ab5a50)<br>
-progetti simili |
+progetti simili | [+](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html)
 
 #### What is it
 Una insieme di visualizzazioni interattive relative ai flussi migratori verso l'Europa dei richiedenti asilo nel periodo 2012-2017.

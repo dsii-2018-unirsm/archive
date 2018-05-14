@@ -2,7 +2,7 @@
 //value1 % value2
 //int or float
 
-float n = 10;
+float n = 400;
 int d = 150;
 void setup() {
   fullScreen();
@@ -12,6 +12,10 @@ void setup() {
 
 void draw() {
   n = (n + 50) % width;  
-  line (0, n ,  n +d, n);
+  line (mouseX , d , n, mouseY);
   stroke(200);
+}
+
+void mousePressed(){
+background(0);
 }

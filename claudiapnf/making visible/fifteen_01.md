@@ -2,6 +2,7 @@
 # fifteen
 
 #mapping <br> #ephemeral <br> #instagram stories
+<br>
 
 ***premessa***<br>
 
@@ -48,21 +49,26 @@ Sviluppato dal centro di ricerca Cultural Analytics Lab di Manovich, il progetto
 Oh my () (Noriyuki Suzuki) [+](http://www.creativeapplications.net/arduino-2/oh-my-calling-for-god-in-48-languages-using-twitter-api/) <br>
 Sebbene non si tratti di un progetto legato alla cartografia in senso stretto, Oh my () rappresenta un'interessante spunto di riflessione sul tema del rendere udibile una parola detta in un dato momento. L'intento del progetto è quello di superare i confini delle differenze linguistiche sfruttando le potenzialità di Internet. Prendendo in esame la parola "God", simbolo di diversità religiose e raziali, gli speaker che compongono l'installazione pronunciano la parola nell'appropriata lingua ogni volta che questa compare nelle API di Twitter. Gli speaker sono disposti in modo tale che la lingua corrisponda alla posizione geografica in cui viene parlata.<br>
 <br>
-***dataset*** <br>
-
- L'acquisizione dei dati avviene attraverso le API di Instagram. [+](https://github.com/mgp25/Instagram-API/blob/master/src/Request/Story.php) [+](https://github.com/CaliAlec/ChromeIGStory) [+](https://github.com/siongui/goigstorylink)  <br>
+Generating fantasy maps [+](https://mewo2.com/notes/terrain/)
+<br>
+Wind map [+](http://hint.fm/projects/wind/)
+<br>
+<br>
+***dataset*** 
+<br>
+ L'acquisizione dei dati avviene attraverso le API di Instagram. [+](https://github.com/mgp25/Instagram-API/blob/master/src/Request/Story.php) [+](https://github.com/CaliAlec/ChromeIGStory) [+](https://medium.com/@calialec/chrome-ig-story-bribing-the-instagram-story-api-with-cookies-c813e6dff911) [+](https://github.com/siongui/goigstorylink) [+](https://isdb.pw/about.html) [+](https://stackoverflow.com/questions/44318751/getting-instagram-story-in-php) <br> 
 Elenco dei dati reperibili: <br>
-dati per ciascun utente:<br>
-nome utente (ha pubblicato una story: sì / no) <br>
-visualizzazione da parte di altri utenti <br>
-risposte alla story <br>
-tag altri utenti <br>
-hashtag location <br>
-altri hashtag <br>
+* dati per ciascun utente:<br>
+* nome utente (ha pubblicato una story: sì / no) <br>
+* visualizzazione da parte di altri utenti <br>
+* risposte alla story <br>
+* tag altri utenti <br>
+* hashtag location <br>
+* altri hashtag <br>
 
 dati reperibili in base ai follower di un preciso account:<br>
-numero di storie effettuate <br>
-la frequenza con cui vengono pubblicate <br>
+* numero di storie effettuate <br>
+* la frequenza con cui vengono pubblicate <br>
 
 Il dato relativo al numero di storie effettuate potrebbe corrispondere all'area della cartografia, mentre per ciascun utente autore di una story si potrebbe generare una sorta di insediamento e per ciascuna persona che l'ha visualizzata un abitante. Inoltre, attraverso i tag presenti nella descrizione del profilo, si potrebbe introdurre una classificazione (es. profilo commerciale o non) per capire se la storia è stata creata a fini promozionali o meno, in modo da ottenere una lettura qualitativa dietro la produzione di stories.
 
