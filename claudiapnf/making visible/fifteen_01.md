@@ -85,7 +85,7 @@ un sito web con cartografia navigabile formata dai dati relativi alle Instagram 
 
 ***cosa significa*** <br>
 
-Il progetto può significare rendere visibile la vastità e mutevolezza del prodotto story facendo trasparire a chi o cosa sono rivolti gli sguardi. Un'altra interpretazione può riguardare invece l'entità del fenomento che ha a che fare con l'affermazione della propria identità personale online e la propria autopromozione.
+Il progetto può significare rendere visibile la vastità e mutevolezza del prodotto story facendo trasparire a chi o cosa sono rivolti gli sguardi. Un'altra interpretazione può riguardare invece l'entità del fenomento che ha a che fare con l'affermazione della propria identità personale online e l' autopromozione.
 
 ***come funziona*** <br>
 
