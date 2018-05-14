@@ -19,7 +19,11 @@ Che aspetto hanno le community? Una comunità virtuale viene generata e "tenuta 
 
 reddit API [+](https://www.reddit.com/dev/api)
 <br>reddit JSON [+](https://github.com/reddit-archive/reddit/wiki/JSON)
+<br>Pusher Realtime Reddit API [+](https://blog.pusher.com/pusher-realtime-reddit-api/)
 <br>pushshift reddit directory contents [+](http://files.pushshift.io/reddit/)
+
+aggiungendo `.json` al URL di un singolo subreddit è possibile leggerne (alcuni) dati. Stesso criterio può essere applicato ad ogni altro URL reddit per acquisire dati JSON di quella data pagina.
+<br> es: https://www.reddit.com/r/lifeisstrange/top.json
 
 Reddit è la *badland*.<br>
 • Ogni subreddit costituisce una città, un insediamento.<br>
@@ -40,12 +44,20 @@ Reddit è la *badland*.<br>
 
 **what does it mean?** *(bad)lands* vuole sottolineare l'importanza delle comunità online. Tali comunità vengono così visualizzate sotto forma di città tenute in vita dall'interazione tra utenti. Attraverso questa operazione si tenta di restituire una leggittimità e serietà agli scambi online. Il mio tempo sulla rete non è tempo perso, ma è il tempo di un viaggio verso l'esplorazione di nuovi mondi. La mia esplorazione potrà portarmi in un territorio sicuro e amichevole così come potrebbe avvenire il contrario. Sono le community online intrinsecamente artificiose e negative, o così come nella vita sta a me scegliere in che modo relazionarmi con gli altri, e con quali "altri" relazionarmi?
 
-**what if?** Cosa succederebbe se tale mappa, per gli utenti registrati, diventasse un nuovo strumento di navigazione?
+**what if?** Cosa succederebbe se tale mappa fosse un mondo 3D che può essere tenuto in mano ed esplorato sollevando pezzi, aprendo porte, ruotando, girando come fosse un cubo di Rubik?
 
-**design fiction** <br>
-In un futuro le comunità online sono le nostre vere città. Grazie a un dispositivo di realtà aumentata è possibile rimanere in contatto con il mondo concreto attorno a noi. Sopra la morfologia della nostra *città concreta*, però, viene aggiunto un nuovo layer che per colori, materiali, forme rispecchia lo stato della nostra comunità. La città diviene così viva e cambia e muta grazie alle interazioni tra gli utenti. I *topic* diventano veri e propri luoghi di aggregazione, vengono rimappati sulla *città concreta* diventando così luoghi a cui è possibile accedere fisicamente per incontrarsi con gli altri. La lingua non è più una barriera grazie alla traduzione istantanea, la comunicazione avviene verbalmente. Per finire è inoltre possibile accedere a una riconfigurazione passata degli scambi potendo assistere così alle discussioni che sono avvenute in nostra assenza.
+**design fiction**
+<br>In un futuro le comunità online sono le nostre vere città. Grazie a un dispositivo di realtà aumentata è possibile rimanere in contatto con il mondo concreto attorno a noi. Sopra la morfologia della nostra *città concreta*, però, viene aggiunto un nuovo layer che per colori, materiali, forme rispecchia lo stato della nostra comunità. La città diviene così viva e cambia e muta grazie alle interazioni tra gli utenti. I *topic* diventano veri e propri luoghi di aggregazione, vengono rimappati sulla *città concreta* diventando così luoghi a cui è possibile accedere fisicamente per incontrarsi con gli altri. La lingua non è più una barriera grazie alla traduzione istantanea, la comunicazione avviene verbalmente. Per finire è inoltre possibile accedere a una riconfigurazione passata degli scambi potendo assistere così alle discussioni che sono avvenute in nostra assenza.
 
 **reference**<br>
 personal Knowledge database, Santiago Ortiz [+](http://intuitionanalytics.com/other/knowledgeDatabase/#i=256)<br>
 Map of Tenderness [+](https://media.gucci.com/content/DiaryHeroArticle_Standard_1600x812/1445360417/DiaryHeroArticle_issue03-map_001_Default.jpg)<br>
-Dreams [+](http://dreams.mediamolecule.com/)
+Dreams, Media Molecule [+](http://dreams.mediamolecule.com/)
+<br> Realtime Reddit API (demo app) [+](http://files.pushshift.io/reddit/) [+](http://realtime-reddit-demo.herokuapp.com/) [+](https://github.com/pusher-community/pusher-realtime-reddit-demo)
+<br> Generating fantasy maps & naming languages, Martin O'Leary [+](http://mewo2.com/notes/terrain/) [+](http://mewo2.com/notes/naming-language/)
+<br> Uncharted Atlas, Martin O'Leary [+](https://twitter.com/unchartedatlas)
+<br> Planet, Oskar Stålberg [+](http://oskarstalberg.com/game/planet/planet.html)
+<br> No Man's Sky, Hello Games [+](https://www.nomanssky.com/)
+<br> No Man's Sky Procedural Content [+](http://3dgamedevblog.com/wordpress/?p=836)
+
+![badlands reference image](https://i.imgur.com/ngP0Fpe.png)
