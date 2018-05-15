@@ -20,7 +20,7 @@ Si genera un sistema che mostra un continuo contrasto tra forze opposte, una sor
 **Componenti del progetto**<br>
 * Teca/piantine
 * Software processing/lettura dati
-* Pavegen/generatore elettrico
+* Pavegen/generatore elettrico (Piezo per prototipazione)
 * Elettropompe/arduino
 
 **Dati**<br>
