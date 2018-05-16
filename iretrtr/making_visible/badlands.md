@@ -60,5 +60,7 @@ Dreams, Media Molecule [+](http://dreams.mediamolecule.com/)
 <br> Planet, Oskar Stålberg [+](http://oskarstalberg.com/game/planet/planet.html)
 <br> No Man's Sky, Hello Games [+](https://www.nomanssky.com/)
 <br> No Man's Sky Procedural Content [+](http://3dgamedevblog.com/wordpress/?p=836)
+<br> Here Dragons Abound, Scott Turner [+](https://heredragonsabound.blogspot.it/)
+<br> Fantasy Map Generator, Azgaar [+](https://azgaar.github.io/Fantasy-Map-Generator/) [+](https://github.com/Azgaar/Fantasy-Map-Generator)
 
 ![badlands reference image](https://i.imgur.com/ngP0Fpe.png)
