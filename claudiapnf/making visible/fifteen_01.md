@@ -85,7 +85,7 @@ un sito web con cartografia navigabile formata dai dati relativi alle Instagram 
 
 ***cosa significa*** <br>
 
-Il progetto può significare rendere visibile la vastità e mutevolezza del prodotto story facendo trasparire a chi o cosa sono rivolti gli sguardi. Un'altra interpretazione può riguardare invece l'entità del fenomento che ha a che fare con l'affermazione della propria identità personale online e la propria autopromozione.
+Il progetto può significare rendere visibile la vastità e mutevolezza del prodotto story facendo trasparire a chi o cosa sono rivolti gli sguardi. Un'altra interpretazione può riguardare invece l'entità del fenomento che ha a che fare con l'affermazione della propria identità personale online e l' autopromozione.
 
 ***come funziona*** <br>
 
@@ -98,3 +98,5 @@ Cosa succederebbe se l'output fosse un oggetto fisico? I dati raccolti potrebber
 ***design fiction*** <br>
 
 Difficile immaginare il destino dei social più affermati in un futuro non troppo lontano. La nascita di Facebook, ad esempio, risale al 2004, mentre la prima versione di Instagram è di 8 anni fa e probabilmente nel 2010 non avremmo immaginato come si sarebbero evoluti. Nel 2050 il progetto potrebbe trasformarsi in un sistema di intelligenza artificiale che faccia da assistente personale agli utenti e li guidi nella costruzione del proprio io digitale.
+
+[google trends](https://medium.com/@pewresearch/using-google-trends-data-for-research-here-are-6-questions-to-ask-a7097f5fb526)
