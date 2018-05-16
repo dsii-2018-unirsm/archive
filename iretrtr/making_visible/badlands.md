@@ -28,15 +28,23 @@ aggiungendo `.json` al URL di un singolo subreddit è possibile leggerne (alcuni
 Reddit è la *badland*.<br>
 • Ogni subreddit costituisce una città, un insediamento.<br>
 • Il nome del subreddit dà il nome alla città.<br>
-• Gli iscritti a un subreddit rappresentano la popolazione di tale insediamento dettandone le dimensioni.<br>
+• Gli iscritti a un subreddit rappresentano la popolazione di tale insediamento dettando il livello di dettaglio della mappa di tale luogo.<br>
 • Se il subreddit è NSFW viene etichettato come "off limits".<br>
 • All'interno dell'insediamento troviamo una serie di luoghi di interesse dettati dai topic.<br>
 • I voti ricevuti da un topic ne denotano la rilevanza, più un topic è rilevante più è alta la sua quota.<br>
 • La quantità di commenti sotto un determinato topic ne denota la popolarità, più un topic è popolare più gravita verso il centro della mappa.<br>
-• Gli utenti attivi negli ultimi 15 minuti vengono rapprensentati con pallini in movimento, gravitano attorno al luogo di interesse dove è stata riscontrata l'ultima azione da loro compiuta (es. topic votato/commentato) e si spostano di accordo. Se sono solo attivi senza aver compiuto nessuna azione sono fermi al centro della mappa.<br>
-• Cliccando su un pallino (un utente) ne visualizzo le relazioni con gli altri *abitanti*.<br>
+<!--- • Gli utenti attivi negli ultimi 15 minuti vengono rapprensentati con pallini in movimento, gravitano attorno al luogo di interesse dove è stata riscontrata l'ultima azione da loro compiuta (es. topic votato/commentato) e si spostano di accordo. Se sono solo attivi senza aver compiuto nessuna azione sono fermi al centro della mappa.<br>
+• Cliccando su un pallino (un utente) ne visualizzo le relazioni con gli altri *abitanti*.<br> --->
 • La quantità di parole positive e negative all'interno dei contenuti testuali di tale subreddit denotano la presenza o assenza di flora e fauna dell'insediamento.<br>
 • Gli utenti bannati costituiscono un insediamento a sé.<br>
+
+La forma della mappa di un insediamento (subreddit) viene generata basandosi su un diagramma di Voronoi di un insieme di punti nel piano, la quantità di punti che lo andranno a costituire è data dal numero della popolazione (subreddit subscribers).
+
+**Voronoi Tessellation references**
+<br> Voronoi Tessellation, Mike Bostock [+](https://bl.ocks.org/mbostock/4060366)
+<br> Voronoi diagram, Sepand Ansari [+](https://codepen.io/sepans/pen/Qbgaby)
+<br> p5.voronoi, Dozed12 [+](https://github.com/Dozed12/p5.voronoi)
+<br> Voronoi Tessellation, Azgaar [+](https://bl.ocks.org/Azgaar/4904e89c12c7347a9e1639edb7655e10) [+](https://bl.ocks.org/Azgaar/9f803911c6850d45334f1a47205b7294)
 
 **what is it?** *(bad)lands* è un sito web che visualizza una cartografia interattiva e mutevole della community di Reddit. Tale mappa è navigabile ed esplorabile ma non modificabile direttamente, si espande ogni volta che nasce una nuova community. La sua morfologia cambia nel tempo a seconda delle interazioni tra utenti.
 
