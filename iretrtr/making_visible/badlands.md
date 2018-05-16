@@ -23,7 +23,7 @@ reddit API [+](https://www.reddit.com/dev/api)
 <br>pushshift reddit directory contents [+](http://files.pushshift.io/reddit/)
 
 aggiungendo `.json` al URL di un singolo subreddit è possibile leggerne (alcuni) dati. Stesso criterio può essere applicato ad ogni altro URL reddit per acquisire dati JSON di quella data pagina.
-<br> es: https://www.reddit.com/r/lifeisstrange/top.json
+<br> es: https://www.reddit.com/r/lifeisstrange/.json
 
 Reddit è la *badland*.<br>
 • Ogni subreddit costituisce una città, un insediamento.<br>
@@ -38,7 +38,10 @@ Reddit è la *badland*.<br>
 • La quantità di parole positive e negative all'interno dei contenuti testuali di tale subreddit denotano la presenza o assenza di flora e fauna dell'insediamento.<br>
 • Gli utenti bannati costituiscono un insediamento a sé.<br>
 
-La forma della mappa di un insediamento (subreddit) viene generata basandosi su un diagramma di Voronoi di un insieme di punti nel piano, la quantità di punti che lo andranno a costituire è data dal numero della popolazione (subreddit subscribers).
+La forma della mappa di un insediamento (subreddit) viene generata basandosi su un diagramma di Voronoi di un insieme di punti nel piano, la quantità di punti che lo andranno a costituire è data dal numero della popolazione (subreddit subscribers). Su tale tassellazione verranno delineati i confini dell'insediamento. Più è alto il numero della popolazione più i confini della mappa saranno definiti e "organici".
+
+![Due diagrammi di Voronoi a confronto, i punti che li generano sono i subreddit_subscribers di quel dato subreddit](https://i.imgur.com/7bfhi1B.png)
+<br>esempio di due diagrammi fondati sul numero di subreddit subscribers appartenenti a due subreddit differenti.<br>libreria utilizzata > semplificazione di p5.voronoi, Dozed12 [+](https://github.com/Dozed12/p5.voronoi)
 
 **Voronoi Tessellation references**
 <br> Voronoi Tessellation, Mike Bostock [+](https://bl.ocks.org/mbostock/4060366)
