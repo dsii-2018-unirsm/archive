@@ -1,10 +1,9 @@
-#### Un semplice md per organizzare le cose da fare     
-##### 1_ Ricerca strumenti per analizzare le espressioni facciali in tempo reale e tradurli in emozioni (face traking)       
-- Face Tracking for Creative Coding (Agoston Nagy) [+](https://github.com/stc/face-tracking-p5js) 
-- Affectiva API (Jin Hyun Cheong e Abdelrahman Mahmoud) [+](https://jsfiddle.net/affectiva/opyh5e8d/show/)
+#### Un semplice md per organizzare le cose da fare <br>
 
-##### 2_ Come prendere le immagini dai social mediante le API     
-##### 3_ Idee sugli output finali della timeline     
+##### 1_ Come prendere metadati da un'immagine salvata su disco rigido -> fatto il test base<br>
+##### 2_ Idee sugli output finali della timeline<br>
+##### 3_ CSV con img e dati (es. data creazione dell'immagine) per iniziare a capire quali dati utilizzare e come <br>
+##### 4_ Fare testing sulle API di Affectiva / contattare assistenza <br>
 
-annotazioni.    
-Il face tracking di creative coding riconosce male le emozioni soprattutto "disgusto" e "paura".
+annotazioni <br>
+... 
