@@ -60,7 +60,7 @@ La forma della mappa di un insediamento (subreddit) viene generata basandosi su 
 **design fiction**
 <br>In un futuro le comunità online sono le nostre vere città. Grazie a un dispositivo di realtà aumentata è possibile rimanere in contatto con il mondo concreto attorno a noi. Sopra la morfologia della nostra *città concreta*, però, viene aggiunto un nuovo layer che per colori, materiali, forme rispecchia lo stato della nostra comunità. La città diviene così viva e cambia e muta grazie alle interazioni tra gli utenti. I *topic* diventano veri e propri luoghi di aggregazione, vengono rimappati sulla *città concreta* diventando così luoghi a cui è possibile accedere fisicamente per incontrarsi con gli altri. La lingua non è più una barriera grazie alla traduzione istantanea, la comunicazione avviene verbalmente. Per finire è inoltre possibile accedere a una riconfigurazione passata degli scambi potendo assistere così alle discussioni che sono avvenute in nostra assenza.
 
-**reference**<br>
+**project references**<br>
 personal Knowledge database, Santiago Ortiz [+](http://intuitionanalytics.com/other/knowledgeDatabase/#i=256)<br>
 Map of Tenderness [+](https://media.gucci.com/content/DiaryHeroArticle_Standard_1600x812/1445360417/DiaryHeroArticle_issue03-map_001_Default.jpg)<br>
 Dreams, Media Molecule [+](http://dreams.mediamolecule.com/)
