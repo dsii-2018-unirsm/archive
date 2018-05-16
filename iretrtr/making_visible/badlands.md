@@ -23,20 +23,31 @@ reddit API [+](https://www.reddit.com/dev/api)
 <br>pushshift reddit directory contents [+](http://files.pushshift.io/reddit/)
 
 aggiungendo `.json` al URL di un singolo subreddit è possibile leggerne (alcuni) dati. Stesso criterio può essere applicato ad ogni altro URL reddit per acquisire dati JSON di quella data pagina.
-<br> es: https://www.reddit.com/r/lifeisstrange/top.json
+<br> es: https://www.reddit.com/r/lifeisstrange/.json
 
 Reddit è la *badland*.<br>
 • Ogni subreddit costituisce una città, un insediamento.<br>
 • Il nome del subreddit dà il nome alla città.<br>
-• Gli iscritti a un subreddit rappresentano la popolazione di tale insediamento dettandone le dimensioni.<br>
+• Gli iscritti a un subreddit rappresentano la popolazione di tale insediamento dettando il livello di dettaglio della mappa di tale luogo.<br>
 • Se il subreddit è NSFW viene etichettato come "off limits".<br>
 • All'interno dell'insediamento troviamo una serie di luoghi di interesse dettati dai topic.<br>
 • I voti ricevuti da un topic ne denotano la rilevanza, più un topic è rilevante più è alta la sua quota.<br>
 • La quantità di commenti sotto un determinato topic ne denota la popolarità, più un topic è popolare più gravita verso il centro della mappa.<br>
-• Gli utenti attivi negli ultimi 15 minuti vengono rapprensentati con pallini in movimento, gravitano attorno al luogo di interesse dove è stata riscontrata l'ultima azione da loro compiuta (es. topic votato/commentato) e si spostano di accordo. Se sono solo attivi senza aver compiuto nessuna azione sono fermi al centro della mappa.<br>
-• Cliccando su un pallino (un utente) ne visualizzo le relazioni con gli altri *abitanti*.<br>
+<!--- • Gli utenti attivi negli ultimi 15 minuti vengono rapprensentati con pallini in movimento, gravitano attorno al luogo di interesse dove è stata riscontrata l'ultima azione da loro compiuta (es. topic votato/commentato) e si spostano di accordo. Se sono solo attivi senza aver compiuto nessuna azione sono fermi al centro della mappa.<br>
+• Cliccando su un pallino (un utente) ne visualizzo le relazioni con gli altri *abitanti*.<br> --->
 • La quantità di parole positive e negative all'interno dei contenuti testuali di tale subreddit denotano la presenza o assenza di flora e fauna dell'insediamento.<br>
 • Gli utenti bannati costituiscono un insediamento a sé.<br>
+
+La forma della mappa di un insediamento (subreddit) viene generata basandosi su un diagramma di Voronoi di un insieme di punti nel piano, la quantità di punti che lo andranno a costituire è data dal numero della popolazione (subreddit subscribers). Su tale tassellazione verranno delineati i confini dell'insediamento. Più è alto il numero della popolazione più i confini della mappa saranno definiti e "organici".
+
+![Due diagrammi di Voronoi a confronto, i punti che li generano sono i subreddit_subscribers di quel dato subreddit](https://i.imgur.com/7bfhi1B.png)
+<br>esempio di due diagrammi fondati sul numero di subreddit subscribers appartenenti a due subreddit differenti.<br>libreria utilizzata > semplificazione di p5.voronoi, Dozed12 [+](https://github.com/Dozed12/p5.voronoi)
+
+**Voronoi Tessellation references**
+<br> Voronoi Tessellation, Mike Bostock [+](https://bl.ocks.org/mbostock/4060366)
+<br> Voronoi diagram, Sepand Ansari [+](https://codepen.io/sepans/pen/Qbgaby)
+<br> p5.voronoi, Dozed12 [+](https://github.com/Dozed12/p5.voronoi)
+<br> Voronoi Tessellation, Azgaar [+](https://bl.ocks.org/Azgaar/4904e89c12c7347a9e1639edb7655e10) [+](https://bl.ocks.org/Azgaar/9f803911c6850d45334f1a47205b7294)
 
 **what is it?** *(bad)lands* è un sito web che visualizza una cartografia interattiva e mutevole della community di Reddit. Tale mappa è navigabile ed esplorabile ma non modificabile direttamente, si espande ogni volta che nasce una nuova community. La sua morfologia cambia nel tempo a seconda delle interazioni tra utenti.
 
@@ -49,15 +60,18 @@ Reddit è la *badland*.<br>
 **design fiction**
 <br>In un futuro le comunità online sono le nostre vere città. Grazie a un dispositivo di realtà aumentata è possibile rimanere in contatto con il mondo concreto attorno a noi. Sopra la morfologia della nostra *città concreta*, però, viene aggiunto un nuovo layer che per colori, materiali, forme rispecchia lo stato della nostra comunità. La città diviene così viva e cambia e muta grazie alle interazioni tra gli utenti. I *topic* diventano veri e propri luoghi di aggregazione, vengono rimappati sulla *città concreta* diventando così luoghi a cui è possibile accedere fisicamente per incontrarsi con gli altri. La lingua non è più una barriera grazie alla traduzione istantanea, la comunicazione avviene verbalmente. Per finire è inoltre possibile accedere a una riconfigurazione passata degli scambi potendo assistere così alle discussioni che sono avvenute in nostra assenza.
 
-**reference**<br>
+**project references**<br>
 personal Knowledge database, Santiago Ortiz [+](http://intuitionanalytics.com/other/knowledgeDatabase/#i=256)<br>
 Map of Tenderness [+](https://media.gucci.com/content/DiaryHeroArticle_Standard_1600x812/1445360417/DiaryHeroArticle_issue03-map_001_Default.jpg)<br>
 Dreams, Media Molecule [+](http://dreams.mediamolecule.com/)
 <br> Realtime Reddit API (demo app) [+](http://files.pushshift.io/reddit/) [+](http://realtime-reddit-demo.herokuapp.com/) [+](https://github.com/pusher-community/pusher-realtime-reddit-demo)
 <br> Generating fantasy maps & naming languages, Martin O'Leary [+](http://mewo2.com/notes/terrain/) [+](http://mewo2.com/notes/naming-language/)
 <br> Uncharted Atlas, Martin O'Leary [+](https://twitter.com/unchartedatlas)
+<br> Polygonal Map Generation for Games, redblobgames [+](http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/#graphs)
 <br> Planet, Oskar Stålberg [+](http://oskarstalberg.com/game/planet/planet.html)
 <br> No Man's Sky, Hello Games [+](https://www.nomanssky.com/)
 <br> No Man's Sky Procedural Content [+](http://3dgamedevblog.com/wordpress/?p=836)
+<br> Here Dragons Abound, Scott Turner [+](https://heredragonsabound.blogspot.it/)
+<br> Fantasy Map Generator, Azgaar [+](https://azgaar.github.io/Fantasy-Map-Generator/) [+](https://github.com/Azgaar/Fantasy-Map-Generator)
 
 ![badlands reference image](https://i.imgur.com/ngP0Fpe.png)
