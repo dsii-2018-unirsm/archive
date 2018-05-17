@@ -47,7 +47,9 @@ dati disponibili: <br>
 
 ***output*** <br>
 (reference visiva) <br>
-![Image](https://imgur.com/a/rsQkysb)
+![Image](https://i.imgur.com/64iIhY9.jpg)
+![Image](https://i.imgur.com/dNZdY5M.jpg)
+![Image](https://i.imgur.com/87MLSaa.jpg)
 <br>
 ***cos'è*** <br>
 un sito web con cartografia navigabile formata dai dati relativi alle ricerche Google. <br>
