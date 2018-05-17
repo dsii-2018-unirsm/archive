@@ -1,5 +1,5 @@
 
-#titolo
+# titolo
 
 ***parole chiave*** <br>#mapping <br> #design <br> #google trends
 
@@ -17,8 +17,7 @@ La ricerca è iniziata con il voler approfondire l'interesse verso gli artefatti
 [+](https://trends.google.com/trends/yis/2017/GLOBAL/)
 [+](http://visualizationuniverse.com/)
 
- <br>
-***casi studio***
+***casi studio***<br>
 
 Le parole di Lev Manovich, ricercatore ed autore del libro Instagram and contemporary image, aiutano a definire il campo d'indagine. <br>
 "Instagram is used in hundreds of different ways by its hundreds of millions of users,
@@ -33,14 +32,13 @@ media. It allows you to capture, edit, and publish photos, view photos of your f
 discover other photos through search, interact with them (like, comment, repost, post to
 other networks), enter into conversations with photo authors and others who left
 comments, create photo collections, change their order, etc. all from a single device." Instagram and contemporary image, Lev Manovich, 2017 <br>
-![Image](https://imgur.com/a/FQwco0N)
+![](https://i.imgur.com/cEva7PV.jpg)
 <br>
 
 Worldpotus (Accurat) [+](http://www.worldpotus.com/#/)
 Worldpotus utilizza i dati di Google trends per misurare l'interesse per i candidati Hillary Clinton e Donald Trump in relazione ai punti chiave dei rispetivi programmi elettorali. La ricerca non comprende solamente il tasso di interesse negli USA ma si estende ai paesi di tutto il mondo. Attraverso la visualizzazione è possibile indagare per ciascun candidato il grado di interesse (da 0 a 100) relativo a temi come aborto, egualità raziale, Brexit, economia, riscaldamento globale ecc.
 
 Oh my () (Noriyuki Suzuki) [+](http://www.creativeapplications.net/arduino-2/oh-my-calling-for-god-in-48-languages-using-twitter-api/) <br>
-![Image](https://imgur.com/a/dF53C7H) <br>
 Sebbene non si tratti di un progetto legato alla cartografia in senso stretto, Oh my () rappresenta un'interessante spunto di riflessione sul tema del rendere udibile una parola detta in un dato momento. L'intento del progetto è quello di superare i confini delle differenze linguistiche sfruttando le potenzialità di Internet. Prendendo in esame la parola "God", simbolo di diversità religiose e raziali, gli speaker che compongono l'installazione pronunciano la parola nell'appropriata lingua ogni volta che questa compare nelle API di Twitter. Gli speaker sono disposti in modo tale che la lingua corrisponda alla posizione geografica in cui viene parlata.
 
 ***dataset*** <br>
@@ -49,7 +47,9 @@ dati disponibili: <br>
 
 ***output*** <br>
 (reference visiva) <br>
-![Image](https://imgur.com/a/rsQkysb)
+![Image](https://i.imgur.com/64iIhY9.jpg)
+![Image](https://i.imgur.com/dNZdY5M.jpg)
+![Image](https://i.imgur.com/87MLSaa.jpg)
 <br>
 ***cos'è*** <br>
 un sito web con cartografia navigabile formata dai dati relativi alle ricerche Google. <br>
