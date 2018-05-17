@@ -230,7 +230,7 @@ MA NON POSSONO DIFFONDERLO SE GLI ARTISTI NON HANNO DATO IL PERMESSO, SONO MOLTO
 
 Sarebbero interessati a un progetto del genere, ci stavano già pensando da tempo. <br>
 Ma per ora la loro idea è molto banale: pubblicare online (social e sito) dei contenuti da loro rielaborati, riguardanti spettacoli anche vecchi perchè dicono che spesso li contattano per avere informazioni del genere --> ma sono persone già interessate di loro, che si informano.
-
+Quando le ho raccontato il mio punto di vista e il progetto, con l'obiettivo di raggiungere più utenti, sembrava molto interessata e incuriosita da questa idea "giovane" ma si è bloccata per ASSENZA DI SOLDI ("per noi sarebbe meglio utilizzare quello che già c'è, che non richieda investimenti")
 <br>
 
 Domande progettuali: <br>
