@@ -233,7 +233,7 @@ Ma per ora la loro idea è molto banale: pubblicare online (social e sito) dei c
 
 <br>
 
-Domanda progettuale: <br>
+Domande progettuali: <br>
 1. **come raggiungere il pubblico che normalmente non si informa autonomamente?** <br>
 2. **in che modo si possono rielaborare quei contenuti in maniera interessante e innovativa?** <br>
 3. **bisognerebbe collegarsi (attraverso qualcosa di fisico come la mia idea originale) ai contenuti online** <br>
