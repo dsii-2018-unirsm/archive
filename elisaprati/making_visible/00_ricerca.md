@@ -222,18 +222,19 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________
 <br>
 
-**Colloquio con responsabile archivio del teatro Valli - Note**
+**Colloquio con responsabile archivio del teatro Valli - Note** <br>
 Hanno un archivio testuale (rassegna stampa, manifesti e programmi di sala), fotografico, video, registrazioni audio.
 MA NON POSSONO DIFFONDERLO SE GLI ARTISTI NON HANNO DATO IL PERMESSO, SONO MOLTO RIGIDI.
 
 <br>
 
 Sarebbero interessati a un progetto del genere, ci stavano già pensando da tempo. <br>
-Ma per ora la loro idea è molto banale: pubblicare online (social e sito) dei contenuti da loro rilaborati, riguardanti spettacoli anche vecchi perchè dicono che spesso li contattano per avere informazioni del genere --> ma sono persone già interessate di loro, che si informano.
+Ma per ora la loro idea è molto banale: pubblicare online (social e sito) dei contenuti da loro rielaborati, riguardanti spettacoli anche vecchi perchè dicono che spesso li contattano per avere informazioni del genere --> ma sono persone già interessate di loro, che si informano.
 
 <br>
 
 Domanda progettuale: <br>
 1. **come raggiungere il pubblico che normalmente non si informa autonomamente?** <br>
-2. **in che modo si possono rielaborare quei contenuti in maniera interessante e innovativa?**
-
+2. **in che modo si possono rielaborare quei contenuti in maniera interessante e innovativa?** <br>
+3. **bisognerebbe collegarsi (attraverso qualcosa di fisico come la mia idea originale) ai contenuti online** <br>
+4. **forma box - macchina del tempo**
