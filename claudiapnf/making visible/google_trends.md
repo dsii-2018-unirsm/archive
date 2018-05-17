@@ -17,8 +17,7 @@ La ricerca è iniziata con il voler approfondire l'interesse verso gli artefatti
 [+](https://trends.google.com/trends/yis/2017/GLOBAL/)
 [+](http://visualizationuniverse.com/)
 
- <br>
-***casi studio***
+***casi studio***<br>
 
 Le parole di Lev Manovich, ricercatore ed autore del libro Instagram and contemporary image, aiutano a definire il campo d'indagine. <br>
 "Instagram is used in hundreds of different ways by its hundreds of millions of users,
@@ -33,7 +32,7 @@ media. It allows you to capture, edit, and publish photos, view photos of your f
 discover other photos through search, interact with them (like, comment, repost, post to
 other networks), enter into conversations with photo authors and others who left
 comments, create photo collections, change their order, etc. all from a single device." Instagram and contemporary image, Lev Manovich, 2017 <br>
-![Image](https://imgur.com/a/FQwco0Nhttps://i.imgur.com/cEva7PV.jpg)
+![](https://i.imgur.com/cEva7PV.jpg)
 <br>
 
 Worldpotus (Accurat) [+](http://www.worldpotus.com/#/)
