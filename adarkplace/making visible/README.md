@@ -14,6 +14,8 @@ E proprio di Roals Amundsen Journey tratta, del viaggio al Polo Sud iniziato nel
 Il suo viaggio parti dalle coste della Norvegia sulla Fram, per proseguire via nave fino alla Barriera Di Ross nel gennaio 1911; da li poi, proseguirono a piedi, con cadi da slitta e con gli sci, fino ad arrivare al Polo il 14 dicembre 1911.
 Il vero successo fu non solo la straordinaria riuscita ma anche la meticolosa preparazione che fece si che non ci furono vittime e incidenti. Tutto era calcolato, ma come poi scrisse Roald, fu solo fortuna.
 
+***
+
 #### Come
 
 L'approccio per mostrare questo viaggio è quello della scoperta; sia fisica attraverso un artefatto che digitale attraverso un portale interattivo.
@@ -32,12 +34,16 @@ Qui lo spreadsheet con tutti i dati [+](https://docs.google.com/spreadsheets/d/1
 Per quanto riguarda il portale web è composto da una mappa interattiva generata in Leaflet e Java, che permette la navigazione spontanea dell'utente e la scoperta di punti di interesse, percorsi e informazioni, attraverso il mouseover di aree sensibili e grafica che richiama il percorso dell'esploratore.
 La foto aerea ad alta risoluzione è presa dagli archivi Nasa [+](https://eoimages.gsfc.nasa.gov/images/imagerecords/78000/78592/antarctica_etm_2000001_lrg.jpg).
 
+***
+
 #### Significa
 
 La riflessione e il significato di questo progetto fanno riflettere sul tempo, sulla preparazione verso l'ignoto e quello che aspetta, non solo nei viaggi di scoperta ma forse anche nella vita.
 Come un pioniere dedica la propria vita al preparare il viaggio al meglio, nel suo caso per raggiungere un obiettivo preciso e soprattutto per non morire nel viaggio in molti casi, allo stesso modo chiunque porebbe approcciare la propria vita con lo stesso spirito di scoprta continua.
 
 Un altra riflessione riguarda l'attesa e la scoperta dell'ignoto, solo mettendosi in gioco, toccando, cliccando e scoprendo il territorio si può veramente conoscere qualcosa. L'inatteso è motivo di sorpresa, ansia e meraviglia, non si sa mai cosa ci si possa trovare davanti, se sarà freddo o se ci porterà un passo più vicino al nostro obiettivo.
+
+***
 
 #### Sviluppi
 
@@ -59,6 +65,8 @@ Antarctica
 Leaflet tutorial - Not of this earth - Non-geographical maps
 [+](https://leafletjs.com/examples/crs-simple/crs-simple.html)
 ###### #maps #exploration
+
+***
 
 #### General references
 
