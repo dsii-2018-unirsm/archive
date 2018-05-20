@@ -238,3 +238,11 @@ Domande progettuali: <br>
 2. **in che modo si possono rielaborare quei contenuti in maniera interessante e innovativa?** <br>
 3. **bisognerebbe collegarsi (attraverso qualcosa di fisico come la mia idea originale) ai contenuti online** <br>
 4. **forma box - macchina del tempo**
+
+__________________________________________________________________________________________________________________________________________
+<br>
+
+[Internet of Shrimps – Ironic and playful look at the IoT](http://www.creativeapplications.net/arduino-2/internet-of-shrimps-ironic-and-playful-look-at-iot/)
+<br>
+[Palimpsest – Collective memory through Virtual Reality](http://www.creativeapplications.net/unity-3d/palimpsest-collective-memory-through-virtual-reality/)
+<br>
