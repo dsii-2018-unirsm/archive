@@ -246,3 +246,6 @@ ________________________________________________________________________________
 <br>
 [Palimpsest – Collective memory through Virtual Reality](http://www.creativeapplications.net/unity-3d/palimpsest-collective-memory-through-virtual-reality/)
 <br>
+Distributori di cultura: [+](https://www.ecodibergamo.it/videos/video/torna-il-distributore-di-cultura-sul-sentierone-di-bergamo_1037071_44/),
+[+](https://www.greenme.it/vivere/arte-e-cultura/27683-distributori-cultura-bergamo-festival)
+<br>
