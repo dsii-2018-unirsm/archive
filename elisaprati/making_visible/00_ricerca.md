@@ -251,4 +251,8 @@ Distributori di cultura: [+](https://www.ecodibergamo.it/videos/video/torna-il-d
 <br>
 Theatre AR:[+](https://www.techradar.com/news/the-national-theatre-is-using-augmented-reality-to-enhance-its-shows) <br>
 [+](http://factor-tech.com/roundup/this-week-facial-recognition-used-to-capture-fugitive-spacex-commits-to-city-to-city-rocket-travel-and-uk-reveals-it-launched-a-cyber-attack-on-islamic-state/)
-
+<br>
+[Distributori automatici di storie](https://www.greenme.it/vivere/arte-e-cultura/17992-distributori-storie-grenoble) 
+<br>
+[Distributori automatici di libri](https://www.greenme.it/vivere/arte-e-cultura/14373-distributori-automatici-di-libri)
+<br>
