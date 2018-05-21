@@ -1,7 +1,7 @@
 // var map = L.map('mapid').setView([51.505, -0.09], 13);
 var bounds = [[-1200,-1200], [1200,1200]];
 // var imageURL = 'https://eoimages.gsfc.nasa.gov/images/imagerecords/78000/78592/antarctica_etm_2000001_lrg.jpg';
-var imageURL = 'img/antarctica_3.jpg';
+var imageURL = 'img/antarctica_3-01.jpg';
 
 
 
