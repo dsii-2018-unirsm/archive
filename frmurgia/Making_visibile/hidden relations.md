@@ -146,3 +146,12 @@ su misura dell'utente. Attraverso la somma delle esperienze condivise con le pia
 i percorsi sono uniformati secondo la soddisfazione colletiva.
 I viaggi saranno fruibili tramite realtà virtuale e trasformati quindi in puro
 intrattenimento. Esistono aree conosciute ma inesplorate.
+
+
+## sitografia
+http://thymia.world/
+
+
+[Mappa.js](https://mappa.js.org/docs/using-data.html)
+
+[snazzy maps](https://snazzymaps.com/)
