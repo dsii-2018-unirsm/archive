@@ -121,7 +121,12 @@ AR <br>
 [Second Surface](http://www.creativeapplications.net/openframeworks/second-surface-multi-user-spatial-collaboration-system/) <br>
 [+](https://www.focus.it/tecnologia/tecno-prodotti/originali-graffiti-e-vignette-in-realta-aumentata) <br>
 [wallame](https://itunes.apple.com/app/id963058537) <br>
+
+
+
 __________________________________________________________________________________________________________________________________________
+<br>
+
 **REVISIONE 27.4.18** 
 <br>
 
@@ -134,7 +139,7 @@ ________________________________________________________________________________
 - archiviazione <br> 
 - stratificazione <br> <br> 
 
-*possibilità*: <br> 
+*Possibilità*: <br> 
 - AR: far vedere qualcosa che c'è dentro <br> 
 - contenuti consultsbili su sito? oppure quando vado sul luogo vedo dei contenuti aggiuntivi? <br> 
 - durante lo spettacolo o anche prima/dopo? <br> 
@@ -160,7 +165,6 @@ ESEMPI: <br>
 --> **TEATRO COME LUOGO CHE PRODUCE CULTURA (produzione, scambio, riflessione)** <br> 
 - come trasmettere cultura? <br> <br> 
 
-------
 
 Idee: <br>
 1 - **teatro come luogo che genera cultura + archivio + allungare la vita degli spettacoli + possibilità di "andare a teatro" anche quando è chiuso** (quindi anche da chiuso continua a generare cultura) --> diffondere i contenuti archiviati (output generato dagli spettacoli) **in giro per la città** --> in questo modo più persone possono entrare a conoscenza dei contenuti culturali che il teatro ospita. --> A. output fisici - B. output digitali <br>
@@ -172,9 +176,83 @@ Idee: <br>
 [NO] 2. si rende visibile l'interno del teatro attraverso la proiezione delle ombre (come???)<br>
 <br>
 
+<br> <br> <br> 
 
-------
+*ricerca riferimenti*: <br>
+http://www.creativeapplications.net/js/three-js/sun-suns-cycle-as-an-interactive-playful-experience/
+
+
+<br> <br> <br> 
 
 *utilities*: <br>
 [Linked-Data-Theater](https://github.com/architolk/Linked-Data-Theatre) <br>
 [Web connected information seeking](http://docplayer.it/amp/44272539-Oggi-si-parla-sempre-di-piu-dei-linked-data-come.html) <br>
+<br>
+
+
+
+__________________________________________________________________________________________________________________________________________
+<br>
+
+**REVISIONE 7.5.18** 
+<br>
+
+1. DISTRIBUTORE * <br>
+- Come è fatto? ha un display? emette audio degli spettacoli? fa una proiezione? <br> 
+- Dove è? davanti al teatro o in **giro per la città**? <br> 
+- Deve attirare l'attenzione <br> 
+- Potrebbe ricordare una macchina del tempo --> potrebbe raffigurare o smentire degli stereotipi visivi <br> 
+<br> 
+2. BIGLIETTO --> è il mezzo per rivivere il *passato* <br>
+- Com'è fatto? uguale a quelli veri? <br>
+- C'è stampata una **frase dello spettacolo**? o una frase scritta da uno spettatore? <br>
+- Che valore ha oggi? può lasciare contenuti per il *futuro*? <br>
+<br>
+3. CONTENUTI <br>
+- Quali? <br>
+- Come ci si accede? <br>
+- In che modo sono consultabili / ci si interagisce? <br>
+
+<br> <br>
+
+* PROTOTIPO
+- *Distributore* (arduino) --> stampante di scontrini + display a cristalli liquidi (?) + bottone + audio (?) <br>
+- *Biglietto* (+ processing) --> algoritmo che stampa a caso <br>
+
+__________________________________________________________________________________________________________________________________________
+<br>
+
+**Colloquio con responsabile archivio del teatro Valli - Note** <br>
+Hanno un archivio testuale (rassegna stampa, manifesti e programmi di sala), fotografico, video, registrazioni audio.
+MA NON POSSONO DIFFONDERLO SE GLI ARTISTI NON HANNO DATO IL PERMESSO, SONO MOLTO RIGIDI.
+
+<br>
+
+Sarebbero interessati a un progetto del genere, ci stavano già pensando da tempo. <br>
+Ma per ora la loro idea è molto banale: pubblicare online (social e sito) dei contenuti da loro rielaborati, riguardanti spettacoli anche vecchi perchè dicono che spesso li contattano per avere informazioni del genere --> ma sono persone già interessate di loro, che si informano.
+Quando le ho raccontato il mio punto di vista e il progetto, con l'obiettivo di raggiungere più utenti, sembrava molto interessata e incuriosita da questa idea "giovane" ma si è bloccata per ASSENZA DI SOLDI ("per noi sarebbe meglio utilizzare quello che già c'è, che non richieda investimenti")
+<br>
+
+Domande progettuali: <br>
+1. **come raggiungere il pubblico che normalmente non si informa autonomamente?** <br>
+2. **in che modo si possono rielaborare quei contenuti in maniera interessante e innovativa?** <br>
+3. **bisognerebbe collegarsi (attraverso qualcosa di fisico come la mia idea originale) ai contenuti online** <br>
+4. **forma box - macchina del tempo**
+
+__________________________________________________________________________________________________________________________________________
+<br>
+
+[Internet of Shrimps – Ironic and playful look at the IoT](http://www.creativeapplications.net/arduino-2/internet-of-shrimps-ironic-and-playful-look-at-iot/)
+<br>
+[Palimpsest – Collective memory through Virtual Reality](http://www.creativeapplications.net/unity-3d/palimpsest-collective-memory-through-virtual-reality/)
+<br>
+Distributori di cultura: [+](https://www.ecodibergamo.it/videos/video/torna-il-distributore-di-cultura-sul-sentierone-di-bergamo_1037071_44/),
+[+](https://www.greenme.it/vivere/arte-e-cultura/27683-distributori-cultura-bergamo-festival)
+<br>
+Theatre AR:[+](https://www.techradar.com/news/the-national-theatre-is-using-augmented-reality-to-enhance-its-shows) <br>
+[+](http://factor-tech.com/roundup/this-week-facial-recognition-used-to-capture-fugitive-spacex-commits-to-city-to-city-rocket-travel-and-uk-reveals-it-launched-a-cyber-attack-on-islamic-state/)
+<br>
+[Distributori automatici di storie](https://www.greenme.it/vivere/arte-e-cultura/17992-distributori-storie-grenoble) 
+<br>
+[Distributori automatici di libri](https://www.greenme.it/vivere/arte-e-cultura/14373-distributori-automatici-di-libri)
+<br>

@@ -26,7 +26,10 @@ Con questo progetto si vuole rendere visibili i segni lasciati dagli spettacoli 
 
 <br>
 
-<!-- *Referenze*: -->
+*Referenze*: <br>
+- Sale
+- Sun’s cycle as an interactive
+-
 
 <br>
 
@@ -49,4 +52,5 @@ EMOZIONI: <br>
 <br>
 
 *Design fiction*: 
-Tra 20 anni questo progetto potrebbe permettere di rivivere l'esperienza dello spettacolo, ovunque si voglia, attraverso la riproduzione di ologrammi 
+1. Tra 20 anni questo progetto potrebbe permettere di rivivere l'esperienza dello spettacolo, ovunque si voglia, attraverso la riproduzione di ologrammi <br>
+2. Tra 10-20 anni, quando gli smart glasses funzioneranno alla perfezione, basterà guardare il teatro per accedere ai contenuti in AR e godersi dall'esterno il video dello spettacolo, come se si fosse all'interno del teatro.
