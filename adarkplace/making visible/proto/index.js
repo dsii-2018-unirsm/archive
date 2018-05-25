@@ -38,9 +38,11 @@ L.marker(sol).addTo(map);
 var sol = L.latLng([-538, -188]);
 L.marker(sol).addTo(map);
 
-// var sol = L.latLng([ 200, 200 ]);
-// L.marker(sol).addTo(map);
-// map.setView( [70, 120], 1);
+
+
+
+
+
 
 var popup = L.popup();
 function onMapClick(e) {
@@ -51,13 +53,49 @@ function onMapClick(e) {
 }
 map.on('click', onMapClick);
 
-var locationI = L.icon({
-    iconUrl: 'img/pin.png',
-    iconSize: [42, 78],
-    iconAnchor: [21, 0],
-    popupAnchor: [-3, -76],
-    shadowUrl: 'img/pin.png',
-    shadowSize: [42, 78],
-    shadowAnchor: [21, 0]
-});
-L.marker([0,50], {icon: locationI}).addTo(map);
+
+
+
+L.polyline([
+  [-333, -109],
+  [-538, -188],
+],{ weight: 30, color: '#fe57a1' }).bindTooltip('Even polylines can have labels.', { direction: 'auto', sticky: 'true'}).addTo(map);
+
+
+L.polygon([
+  [[-450, 126], [-388, 161], [-308, 115], [-284, 73], [-204, -18], [-266, -74]],
+],{color: '#fe57a1', stroke:0})
+  .bindTooltip('MultiPolygon\'s have labels as well :)', { direction: 'auto', sticky: 'true'})
+  .addTo(map);
+
+
+
+  var firefoxIcon = L.icon({
+          iconUrl: 'http://icons.iconarchive.com/icons/paomedia/small-n-flat/1024/map-marker-icon.png',
+          iconSize: [40 , 40], // size of the icon
+          });
+
+
+L.marker([-37.7772, 50], {icon: firefoxIcon}).bindTooltip('Look revealing label!').addTo(map);
+
+
+
+
+
+
+// L.control.coordinates({
+// 			position:"topright",
+// 			useDMS:true,
+// 			labelTemplateLat:"N {y}",
+// 			labelTemplateLng:"E {x}",
+// 			useLatLngOrder:true
+// }).addTo(map);
+// L.control.coordinates().addTo(map);
+// //add configured controls
+// L.control.coordinates({
+//   position:"bottomleft",
+//   decimals:2,
+//   decimalSeperator:",",
+//   labelTemplateLat:"Latitude: {y}",
+//   labelTemplateLng:"Longitude: {x}"
+// }).addTo(map);
