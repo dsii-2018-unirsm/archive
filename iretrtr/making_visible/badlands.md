@@ -5,7 +5,7 @@
 **parole chiave** <br>altruismo, condivisione, comunità
 
 **concept**<br>
-Le comunità online sono *luoghi* a tutti gli effetti, luoghi di aggregazione e di scambio, a volte di conflitto, altre volte di rifugio.
+Le comunità online sono *luoghi* a tutti gli effetti, luoghi di aggregazione e di scambio, a volte di conflitto, altre volte di rifugio. Il *luogo* è uno spazio in cui vive una comunità che ne parla.
 
 *Se ti dico che la città cui tende il mio viaggio è discontinua nello spazio e nel tempo, ora più rada ora più densa, tu non devi credere che si possa smettere di cercarla.* (Italo Calvino - Le Città Invisibili)
 
