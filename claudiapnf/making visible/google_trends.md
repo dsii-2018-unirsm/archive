@@ -3,7 +3,7 @@
 
 ***parole chiave*** <br>#mapping <br> #design <br> #google trends
 
-![](https://i.imgur.com/8RURwNh.jpg)
+![](https://i.imgur.com/H71sAwg.jpg)
 
 ***concept*** <br>
 
