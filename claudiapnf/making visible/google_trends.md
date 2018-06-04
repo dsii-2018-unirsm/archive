@@ -1,7 +1,7 @@
 
 # titolo
 
-***parole chiave*** <br>#mapping <br> #design <br> #google trends
+***parole chiave*** <br>#mapping <br>#exploring <br> #design <br> #google trends
 
 ![](https://i.imgur.com/H71sAwg.jpg)
 
