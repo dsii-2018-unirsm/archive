@@ -40,7 +40,7 @@ comments, create photo collections, change their order, etc. all from a single d
 ![](https://i.imgur.com/cEva7PV.jpg)
 <br>
 
-Worldpotus (Accurat) [+](http://www.worldpotus.com/#/)
+Worldpotus (Accurat) [+](http://www.worldpotus.com/#/) <br>
 Worldpotus utilizza i dati di Google trends per misurare l'interesse per i candidati Hillary Clinton e Donald Trump in relazione ai punti chiave dei rispetivi programmi elettorali. La ricerca non comprende solamente il tasso di interesse negli USA ma si estende ai paesi di tutto il mondo. Attraverso la visualizzazione è possibile indagare per ciascun candidato il grado di interesse (da 0 a 100) relativo a temi come aborto, egualità raziale, Brexit, economia, riscaldamento globale ecc.
 
 Oh my () (Noriyuki Suzuki) [+](http://www.creativeapplications.net/arduino-2/oh-my-calling-for-god-in-48-languages-using-twitter-api/) <br>
