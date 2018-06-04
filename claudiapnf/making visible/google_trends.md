@@ -3,12 +3,15 @@
 
 ***parole chiave*** <br>#mapping <br> #design <br> #google trends
 
+![](https://i.imgur.com/8RURwNh.jpg)
+
 ***concept*** <br>
 
 La ricerca è iniziata con il voler approfondire l'interesse verso gli artefatti visivi condivisi da utenti più o meno autorevoli nell'ambito del design. Studi di progettazione o singoli freelancer che contribuiscono nel tempo a definire modalità di comunicazione e senso estetico. A rendere per così dire ufficiale questo tipo di pubblicazione, il feed del proprio profilo, luogo nel quale è possibile tener traccia dei propri lavori in maniera permanente. Un'operazione del genere, si tratti di un profilo istituzionale o amatoriale, può richiedere una seria progettazione del "cosa", "come", "quando" pubblicare. Si potrebbe dire che dietro la maggioranza dei post di questo genere ci sia una sorta di senso di attenzione a guidare l'utente, al fine di costruire con coerenza il proprio profilo e destare curiosità. Il luogo dove ciò avviene è Instagram, uno dei social più utilizzati in questo senso che conta ad oggi circa 800 milioni di utenti attivi in tutto il mondo. Qui si concentrano migliaia di artwork di nuovi progetti da cui trarre ispirazione per produrre e postare nuovi contenuti. Come si può usare la data visualization per creare uno strumento visivo in grado di suggerire temi, parole chiave, trend di ricerca? Ciò che emerge è un flusso di informazioni potenzialmente utile in fase di ideazione e progettazione. Come trasformare questo flusso apparentemente randomico in qualcosa di significativo? 
 
 Paradossalmente il dataset di partenza può derivare da molteplici fonti, siano esse Twitter o Youtube. In entrambi i casi il metodo di selezione mostrerebbe una top 25 dei contenuti più retwittati o più visualizzati. Sulla base di questo tipo di ricerche si potrebbe creare una mappa interattiva in grado di suggerire le ricerche più frequenti nell'ambito del design, in modo da scoprire territori esplorati e ancora da esplorare. Il progetto vuole avvalersi dell'esperienza della cartografia in qualità di supporto storicamente adatto a rapresentare la complessità e riunire concetti come eterogeneità, elementi naturali e sociali nella stessa immagine. L'intento è quello di utilizzare uno strumento utile ad indagare un contesto fatto di molteplici narrazioni e permettere all'utente di muoversi nello spazio, esplorare e idealmente cambiare il tema della rappresentazione.
 
+![](https://i.imgur.com/SM8dGo4.png)
 
 ***Google trends*** <br>
 "Google Trends is an online search  tool that allows the user to see how often specific keywords, subjects and phrases have been queried over a specific period of time. Google Trends works by analyzing a portion of Google searches to compute how many searches have been done for the terms entered, relative to the total number of searches done on Google over the same time."
