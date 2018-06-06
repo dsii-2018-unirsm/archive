@@ -1,7 +1,8 @@
 
-# titolo
+# elsewhere
 
-***parole chiave*** <br>#mapping <br>#exploring <br> #design <br> #google trends
+***parole chiave*** <br>#mapping <br>#exploring <br> #design <br> #google trends <br>
+***abstract***
 
 ![](https://i.imgur.com/H71sAwg.jpg)
 
@@ -11,10 +12,14 @@ La ricerca è iniziata con il voler approfondire l'interesse verso gli artefatti
 
 Paradossalmente il dataset di partenza può derivare da molteplici fonti, siano esse Twitter o Youtube. In entrambi i casi il metodo di selezione mostrerebbe una top 25 dei contenuti più retwittati o più visualizzati. Sulla base di questo tipo di ricerche si potrebbe creare una mappa interattiva in grado di suggerire le ricerche più frequenti nell'ambito del design, in modo da scoprire territori esplorati e ancora da esplorare. Il progetto vuole avvalersi dell'esperienza della cartografia in qualità di supporto storicamente adatto a rapresentare la complessità e riunire concetti come eterogeneità, elementi naturali e sociali nella stessa immagine. L'intento è quello di utilizzare uno strumento utile ad indagare un contesto fatto di molteplici narrazioni e permettere all'utente di muoversi nello spazio, esplorare e idealmente cambiare il tema della rappresentazione.
 
+The salt series di Tom Hegen. 
+La produzione di sale marino è uno dei più antichi interventi umani in natura. Il sale marino si produce attraverso l'evaporazione di acqua marina all'interno di laghi artificiali. Il colore dell'acqua indica la salinità del lago. All'aumentare della salinità cambia il colore dei micro organismi che vi vivono. I colori possono variare da sfumature tendenti al verde al rosso acceso. 
+
 ![](https://i.imgur.com/SM8dGo4.png)
 
-***Google trends*** <br>
-"Google Trends is an online search  tool that allows the user to see how often specific keywords, subjects and phrases have been queried over a specific period of time. Google Trends works by analyzing a portion of Google searches to compute how many searches have been done for the terms entered, relative to the total number of searches done on Google over the same time."
+***Google trends policy*** <br>
+Come funziona Google Trends? 
+"Google Trends is an online search tool that allows the user to see how often specific keywords, subjects and phrases have been queried over a specific period of time. Google Trends works by analyzing a portion of Google searches to compute how many searches have been done for the terms entered, relative to the total number of searches done on Google over the same time."
 
 [+](https://medium.com/@pewresearch/using-google-trends-data-for-research-here-are-6-questions-to-ask-a7097f5fb526)
 [+](https://towardsdatascience.com/where-people-are-most-interested-in-data-visualization-and-data-science-16079ad706e0)
@@ -22,21 +27,9 @@ Paradossalmente il dataset di partenza può derivare da molteplici fonti, siano 
 [+](https://trends.google.com/trends/yis/2017/GLOBAL/)
 [+](http://visualizationuniverse.com/)
 
-***casi studio***<br>
+***referenze***<br>
+La ricerca si è concentrata su temi e progetti per motivi diversi inerenti ai temi del progetto. 
 
-Le parole di Lev Manovich, ricercatore ed autore del libro Instagram and contemporary image, aiutano a definire il campo d'indagine. <br>
-"Instagram is used in hundreds of different ways by its hundreds of millions of users,
-so any single answer to the question “what is it” will be insufficient. But we can ask a
-different question: what is it in the context of media history? This question is more
-approachable. Here is one way to answer it. Different elements of photo culture that
-throughout 19th and 20th century were separate, now have been combined in a simple
-platform. [...] Camera, photo paper, a darkroom, exhibition spaces
-such as galleries, and publication venues such as magazines exist together in one hand-held
-device. This single platform medium is remarkable development in the history of modern
-media. It allows you to capture, edit, and publish photos, view photos of your friends,
-discover other photos through search, interact with them (like, comment, repost, post to
-other networks), enter into conversations with photo authors and others who left
-comments, create photo collections, change their order, etc. all from a single device." Instagram and contemporary image, Lev Manovich, 2017 <br>
 ![](https://i.imgur.com/cEva7PV.jpg)
 <br>
 
