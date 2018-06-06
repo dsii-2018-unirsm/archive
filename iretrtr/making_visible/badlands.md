@@ -5,7 +5,7 @@
 **parole chiave** <br>altruismo, condivisione, comunità
 
 **concept**<br>
-Le comunità online sono *luoghi* a tutti gli effetti, luoghi di aggregazione e di scambio, a volte di conflitto, altre volte di rifugio.
+Le comunità online sono *luoghi* a tutti gli effetti, luoghi di aggregazione e di scambio, a volte di conflitto, altre volte di rifugio. Il *luogo* è uno spazio in cui vive una comunità che ne parla.
 
 *Se ti dico che la città cui tende il mio viaggio è discontinua nello spazio e nel tempo, ora più rada ora più densa, tu non devi credere che si possa smettere di cercarla.* (Italo Calvino - Le Città Invisibili)
 
@@ -72,6 +72,6 @@ Dreams, Media Molecule [+](http://dreams.mediamolecule.com/)
 <br> No Man's Sky, Hello Games [+](https://www.nomanssky.com/)
 <br> No Man's Sky Procedural Content [+](http://3dgamedevblog.com/wordpress/?p=836)
 <br> Here Dragons Abound, Scott Turner [+](https://heredragonsabound.blogspot.it/)
-<br> Fantasy Map Generator, Azgaar [+](https://azgaar.github.io/Fantasy-Map-Generator/) [+](https://github.com/Azgaar/Fantasy-Map-Generator)
+<br> Fantasy Map Generator, Azgaar [+](https://azgaar.github.io/Fantasy-Map-Generator/) [+](https://github.com/Azgaar/Fantasy-Map-Generator) [+](https://azgaar.wordpress.com/)
 
 ![badlands reference image](https://i.imgur.com/ngP0Fpe.png)
