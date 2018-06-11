@@ -1,8 +1,9 @@
 ## (bad)lands
+<br>Il termine *badlands* sta a indicare un’area tipicamente arida in cui rocce sedimentarie e terreni ricchi di argilla sono stati erosi ampiamente da vento e acqua. Sono terreni ostici, diffcili da esplorare ma di una bellezza imprescindibile.
 
 ![Layers of rock stand visible in the badlands in Badlands National Park.](https://i.imgur.com/b52oLOb.jpg)
 
-**parole chiave** <br>altruismo, condivisione, comunità
+**parole chiave** <br>altruismo, condivisione, comunità, cartografia
 
 **concept**<br>
 Le comunità online sono *luoghi* a tutti gli effetti, luoghi di aggregazione e di scambio, a volte di conflitto, altre volte di rifugio. Il *luogo* è uno spazio in cui vive una comunità che ne parla.
@@ -13,17 +14,21 @@ Che aspetto hanno le community? Una comunità virtuale viene generata e "tenuta 
 
 *(bad)lands* è una cartografia interattiva e mutevole che ha lo scopo di formalizzare, visualizzare e concretizzare gli scambi degli utenti su forum online, sottolineando così l'importanza di tali community.
 
+Idealmente per ogni community online, e quindi per ogni internet forum, può essere realizzata una cartografia. I dati di tale community diventano la base per la generazione del luogo. In questo caso, per la realizzazione di un prototipo, è stato necessario identificare una specifica community su cui lavorare. La scelta è ricaduta su Reddit.
+
 **dati**<br>
 *Reddit*: caso studio scelto per la selezione dei dati. Perché Reddit? Il fatto se Reddit possa essere considerato un "forum" a tutti gli effetti è discussione ancora aperta. Certamente sposa alcuni aspetti dei più classici forum (subreddit non sono altro che subforum, al cui interno trovare singoli thread di discussione), contrariamente ai forum introduce un sistema di votazione e risposta diretta attraverso commenti (distaccandosi dal classico "quote"). Non è un "forum ufficiale" e per questo il contenuto viene generato totalmente dagli utenti, spesso senza essere eccessivamente mediato. Non c'è dubbio però che sia uno dei *luoghi* di aggregazione e condivisione più frequentati online al cui interno possono essere identificate comunità di ogni genere, ospita grandi community così come community di nicchia.
 
+**querying Reddit**<br>
+Per la realizzazione del prototipo si è deciso di visualizzare la cartografia di un dato subreddit, ovvero di una data community. Le informazioni pubbliche presenti su Reddit possono essere raccolte semplicemente digitando `.json` alla fine di qualsiasi URL Reddit, questa operazione restituisce appunto un file JSON. La URL tipica di un subreddit è la seguente: http://www.reddit.com/r/subreddit, dove subreddit è il nome unico di tale subreddit. I dati a cui si riesce a risalire sono numerosi e non tutti sono utili alla costruzione di una cartografia del luogo di tale subreddit.
+
+aggiungendo `.json` al URL di un singolo subreddit è possibile leggerne (alcuni) dati. Stesso criterio può essere applicato ad ogni altro URL reddit per acquisire dati JSON di quella data pagina.
+<br> es: https://www.reddit.com/r/The_Donald/.json
 
 reddit API [+](https://www.reddit.com/dev/api)
 <br>reddit JSON [+](https://github.com/reddit-archive/reddit/wiki/JSON)
 <br>Pusher Realtime Reddit API [+](https://blog.pusher.com/pusher-realtime-reddit-api/)
 <br>pushshift reddit directory contents [+](http://files.pushshift.io/reddit/)
-
-aggiungendo `.json` al URL di un singolo subreddit è possibile leggerne (alcuni) dati. Stesso criterio può essere applicato ad ogni altro URL reddit per acquisire dati JSON di quella data pagina.
-<br> es: https://www.reddit.com/r/lifeisstrange/.json
 
 Reddit è la *badland*.<br>
 • Ogni subreddit costituisce una città, un insediamento.<br>
@@ -38,10 +43,19 @@ Reddit è la *badland*.<br>
 • La quantità di parole positive e negative all'interno dei contenuti testuali di tale subreddit denotano la presenza o assenza di flora e fauna dell'insediamento.<br>
 • Gli utenti bannati costituiscono un insediamento a sé.<br>
 
-La forma della mappa di un insediamento (subreddit) viene generata basandosi su un diagramma di Voronoi di un insieme di punti nel piano, la quantità di punti che lo andranno a costituire è data dal numero della popolazione (subreddit subscribers). Su tale tassellazione verranno delineati i confini dell'insediamento. Più è alto il numero della popolazione più i confini della mappa saranno definiti e "organici".
+**metafora visiva**
+<br>Un subreddit identifica una comunità che discute di un determinato argomento. Ogni subreddit definisce quindi una città, un insediamento. Gli iscritti a un subreddit rappresentano la popolazione di tale insediamento dettando il livello di dettaglio della mappa di tale luogo. All’interno dell’insediamento troviamo una serie di luoghi di interesse dettati dai topic, i voti ricevuti da un topic ne denotano la rilevanza, più un topic è rilevante più è alta la sua quota. Mentre la quantità di commenti sotto un determinato topic ne denota la popolarità, più un topic è popolare più gravita verso il centro della mappa. Il topic più popolare sarà così collocato perfettamente al centro gli altri, di conseguenza, gli orbiteranno attorno.
+
+**generare una mappa**
+<br>L’idea è quella di creare una cartogra a plausibile, verosimile e non astratta, dando così una “fisicità” a un luogo che non esiste nello spazio reale. La forma della mappa di un insediamento (subreddit) viene generata basandosi su un diagramma di Voronoi di un insieme di punti nel piano, la quantità di punti che lo andranno a costituire è data dal numero della popolazione (subreddit subscribers). Su tale tassellazione verranno delineati i confini dell'insediamento. Più è alto il numero della popolazione più i confini della mappa saranno definiti e "organici".
 
 ![Due diagrammi di Voronoi a confronto, i punti che li generano sono i subreddit_subscribers di quel dato subreddit](https://i.imgur.com/7bfhi1B.png)
 <br>esempio di due diagrammi fondati sul numero di subreddit subscribers appartenenti a due subreddit differenti.<br>libreria utilizzata > semplificazione di p5.voronoi, Dozed12 [+](https://github.com/Dozed12/p5.voronoi)
+
+Vista l’enorme quantità di iscritti ai più popolari subreddit (il subreddit più popolare al momento conta ben 21,352,277 subscribers, secondo redditmetrics.com) è stato necessario rimappare i valori su una scala da 10 a 1500, dove 10 è il numero minimo di punti possibili per la creazione del diagramma e 1500 il numero massimo.
+
+![Due mappe generate a partire da due subreddit r/piracy e r/The_Donald](https://i.imgur.com/2AG7tNV.png)
+<br>generazione della mappa, definizione del territorio e dei confini, studio sulla generazione di heightmap.
 
 **Voronoi Tessellation references**
 <br> Voronoi Tessellation, Mike Bostock [+](https://bl.ocks.org/mbostock/4060366)
