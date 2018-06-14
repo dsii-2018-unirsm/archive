@@ -256,3 +256,17 @@ Theatre AR:[+](https://www.techradar.com/news/the-national-theatre-is-using-augm
 <br>
 [Distributori automatici di libri](https://www.greenme.it/vivere/arte-e-cultura/14373-distributori-automatici-di-libri)
 <br>
+
+
+__________________________________________________________________________________________________________________________________________
+<br>
+SIMULAZIONE AR: <br>
+[+](https://medium.com/arjs/webar-playground-ar-in-a-few-clicks-67a08cfb1534), 
+[+](https://github.com/arjunmahishi/p5-AR),
+[+](https://p5ar.surge.sh/),
+[+](https://medium.com/arjs/augmented-reality-in-10-lines-of-html-4e193ea9fdbf),
+[+](https://aframe.io/docs/0.8.0/introduction/),
+[+](https://glitch.com/),
+[+](https://github.com/jeromeetienne/AR.js/blob/master/README.md),
+[+](https://github.com/aframevr/aframe/),
+[+](https://codepen.io/jeromeetienne/pen/mRqqzb)
