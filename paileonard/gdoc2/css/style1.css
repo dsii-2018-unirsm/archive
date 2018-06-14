@@ -1,0 +1,23 @@
+@import url(//fonts.googleapis.com/css?family=Montserrat:400,700);
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  margin-top: 200px;
+  background: #000014;
+  color:white;
+}
+
+.col-md-4 {
+  text-align: center;
+  padding-bottom: 50px;
+  border-right: 1px dashed #000014;
+}
+
+.counter {
+  color: white;
+  animation-duration: 1s;
+  animation-delay: 0s;
+}
