@@ -1,12 +1,13 @@
+
 //------------------------------CREAZIONE MAPPA DA IMG O URL
 
 var bounds = [[-1200,-1200], [1200,1200]];
-var imageURL = 'img/antarctica_3-01.jpg';
+var imageURL = 'img/antarctica_3-02.jpg';
 // var imageURL = 'https://eoimages.gsfc.nasa.gov/images/imagerecords/78000/78592/antarctica_etm_2000001_lrg.jpg';
 
 var map = L.map('mapid', {
   crs: L.CRS.Simple,
-  center: [-538, -188],
+  center: [-550, -188],
   zoom:2,
   maxBounds: bounds,
   maxBoundsViscosity: 1,
@@ -16,70 +17,140 @@ var map = L.map('mapid', {
 
 var image = L.imageOverlay(imageURL, bounds).addTo(map);
 
+//------------------------------MARKER CUSTOM
+
+var campicon = L.icon({
+          iconUrl: 'img/marker_camp.png',
+          iconSize: [40 , 40],
+          tooltipAnchor: [30,0],
+});
+var boaticon = L.icon({
+          iconUrl: 'img/marker_boat.png',
+          iconSize: [44 , 44],
+          tooltipAnchor: [30,0],
+});
+
+//------------------------------WELCOME POPUP
+
+var popup = L.popup({ closeButton: false, autoClose: true, closeOnClick:true})
+.setLatLng([-564, -270])
+.setContent('<p><b>Welcome to Journey</b></p> Discover the map<br>and try to find all the checkpoint<br>like a true pioneer');
+
+var popupWelcome = new L.FeatureGroup();
+popupWelcome.addLayer(popup);
+
+map.addLayer(popup);
+
+map.on('zoomend', function() {
+    if (map.getZoom() <2){
+            map.removeLayer(popup);
+    }
+});
+
 //------------------------------LETTURA SPREADSHEET E VARIABILI
 
 var url = "https://spreadsheets.google.com/feeds/list/1JDSbPNu-fHFAWMpIPzLiX_GG77CxRFYXaYVpT2_Fc-A/od6/public/values?alt=json";
-var markers = [
-            [-539, -191, "Framheim<br>78.37.60.S<br>163.40.0.O"],
-            [-473, -170, "Depot 1<br>80.00.00.S<br>163.40.00.O"]
+// var markers = [];
+var markers2 = [
+            [-534, -190, "Framheim<br>78.37.60.S<br>163.40.0.O"],
+            [-473, -170, "Depot 1<br>80.00.00.S<br>163.40.00.O"],
+            [-425, -155, "Depot 2<br>80.59.00.S<br>163.40.00.O"],
+            [-417, -150, "Steershead Crevasses<br>81.10.00.S<br>164.00.00.O"],
+            [-377, -140, "Depot 3"],
+            [-361, -135, "Discovery"],
+            [-330, -124, "83S"],
+            [-230, -93, "Betty's Knoll"],
+            [-221, -90, "Axel Heiberg Glacier"],
+            [-215, -81,	"Axel Heiberg Glacier"],
+            [-213, -77,	"Axel Heiberg Glacier ice falls"],
+            [-211, -69,	"Butcher's Shop"],
+            [-203, -67,	"Plateau journey begins"],
+            [-178, -62, "Devil's Glacier"],
+            [-151,	-55, "Devil's dance floor<br>AKA Ballroom"],
+            [-75,	-37, "Passed Shackleton's Farthest South"],
+            [3,	-18, "The Pole"]
           ];
-//------------------------------SETUP
 
-function setup() {
-  loadJSON(url, gotSpreadsheet, 'jsonp');   // richiedi i dati formato JSON e poi chiama la funzione gotSpreadsheet
-}
+//------------------------------PRELOAD & SETUP
 
-//------------------------------DISEGNO MARKER DA ARRAY
+var indice = 1;
 
-for (var i=0; i<markers.length; i++) {
-  var lat = markers[i][0];
-  var lon = markers[i][1];
-  var popupText = markers[i][2];
-  var markerLocation = new L.LatLng(lat, lon);
-  var marker = new L.Marker(markerLocation);
-  map.addLayer(marker);
-  marker.bindPopup(popupText);
-}
+// function preload() {
+//   loadJSON(url, gotSpreadsheet);
+// }
+//
+
+// function setup() {
+// }
+
 
 // //------------------------------LETTURA SPREADSHEET
-//
-// function gotSpreadsheet(chart) {
-//   println(chart.feed.entry.length);
-//   for (var i = 0; i < chart.feed.entry.length; i++) {
-//     var c = {
-//                   "ics": chart.feed.entry[i].gsx$x.$t,
-//                   "ipsilon": chart.feed.entry[i].gsx$y.$t,
-//                   // "Data": chart.feed.entry[i].gsx$data.$t,
-//                   "Nome": chart.feed.entry[i].gsx$nome.$t,
-//                   // "Lat": chart.feed.entry[i].gsx$latitudine.$t,
-//                   // "Long": chart.feed.entry[i].gsx$longitudine.$t,
+
+// function gotSpreadsheet(journey) {
+//   for (var i = 0; i < journey.feed.entry.length; i++) {
+//     var ma = {
+//                   "XXX": journey.feed.entry[i].gsx$x.$t,
+//                   "YYY": journey.feed.entry[i].gsx$y.$t,
+//                   // "Data": journey.feed.entry[i].gsx$data.$t
+//                   "Nome": journey.feed.entry[i].gsx$nome.$t
+//                   // "latitude": journey.feed.entry[i].gsx$latitude.$t
+//                   // "longitude": journey.feed.entry[i].gsx$longitude.$t
 //               }
-//     markers.push(c);
-//   }
-// }
-// //------------------------------CREAZIONE DEI MARKER DA SPREADSHEET
-//
-// function Oggetto(_id, _ics, _ipsilon,) {
-//   this.id = Number(_id);
-//   this.ics = Number(_ics);
-//   this.ipsilon = Number(_ipsilon);
-//   // this.Data;
-//   // this.Nome;
-//   // this.Lat;
-//   // this.Long;
-//
-//   this.mostra = function() {
-//     // L.marker([CooX, CooY]).bindTooltip(Data + ' - ' + Nome + ' - ' + Lat + ' - ' + Long).addTo(map);
-//     var markerLocation = new L.LatLng(this.ics, this.ipsilon);
-//     var marker = new L.Marker(markerLocation);
-//     map.addLayer(marker);
+//     ma["XXX"] = int(ma["XXX"]);
+//     ma["YYY"] = int(ma["YYY"]);
+//     markers.push(ma);
 //   }
 // }
 
-// var markers = [
-//             [ -539, -191, "Big Ben" ],
-//             [ -473, -170, "London Eye" ],
-// ];
+//------------------------------DISEGNO MARKER DA ARRAY SPREADSHEET
+
+// for (var i=0; i<markers.length; i++) {
+//       // var lat = markers[i]["XXX"];
+//       // var lon = markers[i]["YYY"];
+//       // var popupText = markers[i]["Nome"];
+//       var markerLocation = new L.LatLng(markers[i]["XXX"], markers[i]["YYY"]);
+//       var marker = new L.Marker(markers[i]["Nome"]);
+//       map.addLayer(marker);
+//       marker.bindPopup(popupText);
+// }
+
+//------------------------------DISEGNO MARKER DA ARRAY MANUALE
+
+// for (var i=0; i<markers2.length; i++) {
+//    var lon = markers2[i][1];
+//    var lat = markers2[i][0];
+//    var popupText = markers2[i][2];
+//    var markerLocation = new L.LatLng(lat, lon);
+//    var marker = new L.Marker(markerLocation);
+//    map.addLayer(marker);
+//    marker.bindPopup(popupText);
+//
+// }
+
+// for (var i=0; i<markers2.length; i++) {
+//    var lon = markers2[i][1];
+//    var lat = markers2[i][0];
+//    var popupText = markers2[i][2];
+//    L.marker([lat, lon], {icon: campicon}).bindPopup(popupText).addTo(map);
+// }
+
+L.marker([markers2[0][0], markers2[0][1]], {icon: boaticon}).bindTooltip(markers2[0][2]).addTo(map).on('click', nextmarker);
+
+function nextmarker() {
+  var lon = markers2[indice][1];
+  var lat = markers2[indice][0];
+  var popupText = markers2[indice][2];
+  L.marker([lat, lon], {icon: campicon,}).bindTooltip(popupText, {direction: 'right'}).addTo(map).on('click', nextmarker);
+  indice = indice + 1;
+}
+
+
+
+//------------------------------CREAZIONE IMMAGINI OVERLAY
+
+// var imageUrl = 'img/marker_camp.png',
+// imageBounds = [[-500, -160], [-490, -150]];
+// L.imageOverlay(imageUrl, imageBounds).addTo(map);
 
 //------------------------------CREAZIONE DEI MARKER A MANO
 
@@ -134,13 +205,26 @@ for (var i=0; i<markers.length; i++) {
 // var m1 = L.latLng([-539, -191]);
 // L.marker(m1).bindTooltip('Framheim - 78.37.60.S - 163.40.0.O').addTo(map);
 
-//------------------------------PROVA PER CREARE MARKER IN SUCCESSIONE
+//------------------------------AGGIUNTA DI UN ELEMENTO GRAFICO STATICO SU PAGINA
 
-// var Ln = -180;
-// for (var i = 0; i < 16; i++) {
-//   L.marker([-530, Ln]).addTo(map);
-//   var Ln = Ln - 10;
+// L.Control.Watermark = L.Control.extend({
+//     onAdd: function(map) {
+//         var img = L.DomUtil.create('img');
+//         img.src = 'img/marker_camp.png';
+//         img.style.width = '50px';
+//         return img;
+//     },
+//
+//     onRemove: function(map) {
+//         // Nothing to do here
+//     }
+// });
+//
+// L.control.watermark = function(opts) {
+//     return new L.Control.Watermark(opts);
 // }
+//
+// L.control.watermark({ position: 'topright' }).addTo(map);
 
 //------------------------------FUNZIONE DI PROVA PER CRARE MARKER IN SUCCESSIONE AL MOUSE OVER
 
@@ -156,35 +240,28 @@ for (var i=0; i<markers.length; i++) {
 
 //------------------------------POPUP DI DEBUG PER COORDINATE
 
-var popup = L.popup();
-function onMapClick(e) {
-    popup
-        .setLatLng(e.latlng)
-        .setContent(e.latlng.toString())
-        .openOn(map);
-}
-map.on('click', onMapClick);
+// var popup = L.popup();
+// function onMapClick(e) {
+//     popup
+//         .setLatLng(e.latlng)
+//         .setContent(e.latlng.toString())
+//         .openOn(map);
+//         console.log(e.latlng);
+// }
+// map.on('click', onMapClick);
 
 //------------------------------LINEA CON MOUSE OVER E POPUP
 
-L.polyline([
-  [-539, -191],
-  [-473, -170],
-  [-425, -155],
-],{ weight: 30, color: '#fe57a1', opacity: 0.1,}).bindTooltip('Even polylines can have labels.', { direction: 'auto', sticky: 'true'}).addTo(map);
+// L.polyline([
+//   [-539, -191],
+//   [-473, -170],
+//   [-425, -155],
+// ],{ weight: 30, color: '#fe57a1', opacity: 0.1,}).bindTooltip('Even polylines can have labels.', { direction: 'auto', sticky: 'true'}).addTo(map);
 
 //------------------------------AREA CON MOUSE OVER E POPUP
 
-L.polygon([
-  [[-450, 126], [-388, 161], [-308, 115], [-284, 73], [-204, -18], [-266, -74]],
-],{color: '#fe57a1', stroke:0})
-  .bindTooltip('MultiPolygon\'s have labels as well :)', { direction: 'auto', sticky: 'true'})
-  .addTo(map);
-
-//------------------------------CUSTOM icon
-
-// var customIcon = L.icon({
-//           iconUrl: 'http://icons.iconarchive.com/icons/paomedia/small-n-flat/1024/map-marker-icon.png',
-//           iconSize: [40 , 40], // size of the icon
-//           });
-// L.marker([-37.7772, 50], {icon: customIcon}).bindTooltip('Look revealing label!').addTo(map);
+// L.polygon([
+//   [[-450, 126], [-388, 161], [-308, 115], [-284, 73], [-204, -18], [-266, -74]],
+// ],{color: '#fe57a1', stroke:0})
+//   .bindTooltip('MultiPolygon\'s have labels as well :)', { direction: 'auto', sticky: 'true'})
+//   .addTo(map);
