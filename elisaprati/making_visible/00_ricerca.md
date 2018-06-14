@@ -271,3 +271,5 @@ SIMULAZIONE AR: <br>
 [+](https://github.com/aframevr/aframe/) <br>
 [+](https://codepen.io/jeromeetienne/pen/mRqqzb) <br>
 <br>
+LIBRERIA JAVA GENERATOR QRCODE:
+[+](https://github.com/zxing/zxing)
