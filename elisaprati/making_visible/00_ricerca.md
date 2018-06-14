@@ -261,13 +261,13 @@ Theatre AR:[+](https://www.techradar.com/news/the-national-theatre-is-using-augm
 __________________________________________________________________________________________________________________________________________
 <br>
 SIMULAZIONE AR: <br>
-[](https://medium.com/arjs/webar-playground-ar-in-a-few-clicks-67a08cfb1534) 
-[](https://github.com/arjunmahishi/p5-AR),
-[](https://p5ar.surge.sh/),
-[](https://medium.com/arjs/augmented-reality-in-10-lines-of-html-4e193ea9fdbf),
-[](https://aframe.io/docs/0.8.0/introduction/),
-[](https://glitch.com/),
-[](https://github.com/jeromeetienne/AR.js/blob/master/README.md),
-[](https://github.com/aframevr/aframe/),
-[](https://codepen.io/jeromeetienne/pen/mRqqzb)
+[+](https://medium.com/arjs/webar-playground-ar-in-a-few-clicks-67a08cfb1534) <br>
+[+](https://github.com/arjunmahishi/p5-AR) <br>
+[+](https://p5ar.surge.sh/) <br>
+[+](https://medium.com/arjs/augmented-reality-in-10-lines-of-html-4e193ea9fdbf) <br>
+[+](https://aframe.io/docs/0.8.0/introduction/) <br>
+[+](https://glitch.com/) <br>
+[+](https://github.com/jeromeetienne/AR.js/blob/master/README.md) <br>
+[+](https://github.com/aframevr/aframe/) <br>
+[+](https://codepen.io/jeromeetienne/pen/mRqqzb) <br>
 <br>
