@@ -261,7 +261,7 @@ Theatre AR:[+](https://www.techradar.com/news/the-national-theatre-is-using-augm
 __________________________________________________________________________________________________________________________________________
 <br>
 SIMULAZIONE AR: <br>
-[+](https://medium.com/arjs/webar-playground-ar-in-a-few-clicks-67a08cfb1534) , 
+[+](https://medium.com/arjs/webar-playground-ar-in-a-few-clicks-67a08cfb1534) 
 [+](https://github.com/arjunmahishi/p5-AR) ,
 [+](https://p5ar.surge.sh/) ,
 [+](https://medium.com/arjs/augmented-reality-in-10-lines-of-html-4e193ea9fdbf) ,
