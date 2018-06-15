@@ -252,7 +252,24 @@ Distributori di cultura: [+](https://www.ecodibergamo.it/videos/video/torna-il-d
 Theatre AR:[+](https://www.techradar.com/news/the-national-theatre-is-using-augmented-reality-to-enhance-its-shows) <br>
 [+](http://factor-tech.com/roundup/this-week-facial-recognition-used-to-capture-fugitive-spacex-commits-to-city-to-city-rocket-travel-and-uk-reveals-it-launched-a-cyber-attack-on-islamic-state/)
 <br>
-[Distributori automatici di storie](https://www.greenme.it/vivere/arte-e-cultura/17992-distributori-storie-grenoble) 
+[Distributori automatici di storie](https://www.greenme.it/vivere/arte-e-cultura/17992-distributori-storie-grenoble), [+](https://www.illibraio.it/distributori-automatici-di-racconti-gratuiti-scopri-cosa-sono-260854/) 
 <br>
 [Distributori automatici di libri](https://www.greenme.it/vivere/arte-e-cultura/14373-distributori-automatici-di-libri)
 <br>
+
+
+__________________________________________________________________________________________________________________________________________
+<br>
+SIMULAZIONE AR: <br>
+[+](https://medium.com/arjs/webar-playground-ar-in-a-few-clicks-67a08cfb1534) <br>
+[+](https://github.com/arjunmahishi/p5-AR) <br>
+[+](https://p5ar.surge.sh/) <br>
+[+](https://medium.com/arjs/augmented-reality-in-10-lines-of-html-4e193ea9fdbf) <br>
+[+](https://aframe.io/docs/0.8.0/introduction/) <br>
+[+](https://glitch.com/) <br>
+[+](https://github.com/jeromeetienne/AR.js/blob/master/README.md) <br>
+[+](https://github.com/aframevr/aframe/) <br>
+[+](https://codepen.io/jeromeetienne/pen/mRqqzb) <br>
+<br>
+LIBRERIA JAVA GENERATOR QRCODE:
+[+](https://github.com/zxing/zxing)
