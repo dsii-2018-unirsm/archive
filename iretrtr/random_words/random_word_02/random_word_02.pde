@@ -1,3 +1,10 @@
+// -
+// random_word 0.1 by Irene Trotta [words, random]
+// 2018 © Irene @iretrtr, Daniele @Fupete and the course DSII2018 @UniRSM 
+// github.com/fupete — github.com/dsii-2018-unirsm
+// Educational purposes, MIT License, 2018, San Marino
+// —
+
 //randomizzatore di parole che seguono il mio cursore, quando clicco fermo una parola, clicco di nuovo e il tutto riparte. //<>//
 boolean toggleLoop = true; //mi permette di gestire valori vero/falso per fermare e riavviare il loop
 String [] words;
