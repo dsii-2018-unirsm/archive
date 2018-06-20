@@ -1,3 +1,10 @@
+// -
+// port_10print 0.1 by Irene Trotta [10print, porting]
+// 2018 © Irene @iretrtr, Daniele @Fupete and the course DSII2018 @UniRSM 
+// github.com/fupete — github.com/dsii-2018-unirsm
+// Educational purposes, MIT License, 2018, San Marino
+// —
+
 int lineW = 16;
 int lineH = 16;
 int index = 0;
