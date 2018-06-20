@@ -2,7 +2,7 @@
 [project repository](https://github.com/iretrtr/dsii-2018-unirsm.github.io/tree/master/iretrtr/making_visible)
 <br>Il termine *badlands* sta a indicare un’area tipicamente arida in cui rocce sedimentarie e terreni ricchi di argilla sono stati erosi ampiamente da vento e acqua. Sono terreni ostici, diffcili da esplorare ma di una bellezza imprescindibile.
 
-![Layers of rock stand visible in the badlands in Badlands National Park.](https://i.imgur.com/b52oLOb.jpg)
+![Layers of rock stand visible in the badlands in Badlands National Park in South Dakota.](https://i.imgur.com/W4xC7Np.jpg)
 
 **parole chiave** <br>altruismo, condivisione, comunità, cartografia
 
