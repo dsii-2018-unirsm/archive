@@ -5,7 +5,7 @@
 
 ***What is***
 
-A web based interactive infographic that shows the immigrants flow to Europe between 2012 and 2015.
+A web based interactive visualization that shows the immigrants flow to Europe between 2012 and 2015.
 
 ***How it works***
 
@@ -18,11 +18,14 @@ Three ways are made to visualize datas:
 
 ***What does it mean***
 
-It shows the crisis of the world we live. People can't understand the real problem till they see it. This project help us visualize that we are not alone, that our country problems are not only ours and that our decisions maybe affects other lifes.
+It shows the crisis of the world we live.
+People can't understand the real problem till they see it.
+This project help us visualize that we are not alone, that our country problems are not only ours and that our decisions maybe affects other lifes.
+This demystifies the thought that only some countries are in danger and have problems of immigration.
 
 ***What if***
 
-We use the same map to visualize import/export of relevant matters like weapons, drugs...
+We use the same map to visualize import/export of relevant/bad matters like weapons or money, not to expose something like drug traffics but bad trades between countries.
 
 ---
 
