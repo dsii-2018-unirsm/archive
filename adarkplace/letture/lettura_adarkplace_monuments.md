@@ -9,11 +9,15 @@ An art installation at the Peacock Visual Arts in Aberdeen that physically shows
 
 ***How it works***
 
-An acrylic box placed on the ceiling is filled with small yellow balls. This box is connected to a computer that monitors the news and every time someone is *killed* in an article give the command to drop a ball on the floor, slowly filling the room.
+An acrylic box placed on the ceiling is filled with small yellow balls, like the one used in softair weapons.
+The box is connected to a board that runs a software that monitors the news; every time someone is *killed* in an article give the command to drop a ball on the floor, slowly filling the room.
 
 ***What does it mean***
 
-We wait our end, inexorably, and we can do nothing. Every ball drop we fell a sense of anxiety, and we wait the next one, and so on. And when we understand that *killing* is caused by us we must fell shame.
+At first this can seem as a game, but when something tell us that ball = dead person something change.
+Every ball drop we fell a sense of anxiety, and we wait the next one, and so on.
+Small balls, likes the one from toy guns, are metaphor that in this world war and killing has become like a game.
+We wait our end, inexorably, and we can do nothing in front of this balls falling.
 
 ***What if***
 

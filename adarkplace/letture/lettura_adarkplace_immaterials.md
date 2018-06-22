@@ -15,10 +15,12 @@ The final *product* can only be seen when long exposure photos of the walk are t
 ***What does it mean***
 
 It means that maybe in every place there's something to tell and to see, that we are constantly connected and that everything emits and receive data from something else.
+Only throught time we can see the impact of our actions and communications layers constantly.
 
 ***What if***
 
-We use this *system* to make visuals like scripts and images that only time (long exposure photos) can shows. 
+What if we use low intensity/frequency sound waves to show the data connections and only with layering we can ear a result.
+In this way a small actions makes a light sound but everything generate noise.
 
 ---
 
