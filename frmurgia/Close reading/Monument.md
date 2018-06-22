@@ -1,6 +1,5 @@
 ## Monument, 2006
-
-![Alt Text](https://media.giphy.com/media/9RZXzhHTNZhYWq5liX/giphy.gif)
+![Alt Text](https://media.giphy.com/media/7SClFlPcKUB3100Wjb/giphy.gif)
 
 
 autore: [Caleb Larsen](http://caleblarsen.com/contact/) <br>
