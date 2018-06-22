@@ -1,7 +1,7 @@
 ## Immaterials: Light painting WiFi, 2012
 
 
-![Alt Text](https://giphy.com/gifs/8qxiyrvncsGy5PE3ka/fullscreen)
+![Alt Text](https://i.imgflip.com/2cpwz7.gif)
 
 anno: 2012 <br>
 autori: [Timo Arnall](http://www.elasticspace.com/), Jørn Knutsen e
