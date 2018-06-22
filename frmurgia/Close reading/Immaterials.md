@@ -7,7 +7,7 @@ autori: [Timo Arnall](http://www.elasticspace.com/), Jørn Knutsen e
  [Progetto](http://yourban.no/2011/02/22/immaterials-light-painting-wifi)
 [video del progetto](https://vimeo.com/20412632) <br>
  
-![Alt Text](https://media.giphy.com/media/8qxiyrvncsGy5PE3ka/giphy.gif)
+![Alt Text](http://gph.is/2IyRCmt)
 
 
 ### What is
