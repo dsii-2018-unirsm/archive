@@ -1,4 +1,5 @@
 # #BALANCE
+![Imgur](https://i.imgur.com/JLznfj3.jpg)
 
 
 **Componenti del progetto**<br>
