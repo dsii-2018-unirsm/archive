@@ -61,7 +61,4 @@ Significa voler richiamare l'attenzione sul fatto che anche le nuove tecnologie 
 **Cosa succederebbe se?**<br>
 Se si aggiungesse una data visualization su un monitor man mano che si aggiorna lo stato dell'istallazione si potrebbe avere anche un'idea più chiara della situazione della piantina e dell'ammontare di energia che ci vuole per aiutarla.
 
-**Sviluppi futuri**
-
-
 
