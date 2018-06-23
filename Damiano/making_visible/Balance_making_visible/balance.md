@@ -4,16 +4,19 @@
 
 **Componenti del progetto**<br>
 
-* Teca/piantine
-![Imgur](https://i.imgur.com/OHHux4t.jpg)
-* Software processing/lettura dati
+* 3 Contenitori
+* Inchiostro nero
+* Piantine
+(In foto contenitori del prototipo)
+* Software: processing/lettura dati 
+* Software: arduino/lettura dati-apertura valvole
 * Pavegen/generatore elettrico (Piezo per prototipazione)
 * Elettropompe/arduino
 
 **Dati**<br>
 * Hashtag Instagram<br>
-* Scraping instagram<br>
-* Impulsi piezo elttrico
+* Impulsi elettrici, pavegen (Piezo per prototipazione)
+![Imgur](https://i.imgur.com/OHHux4t.jpg)
 
 **Cos'è?**<br>
 #balance è una installazione fisica che vuole porre l’attenzione sui temi di inquinamento prodotto dalla rete e sul tema di azione, cambiamento.
