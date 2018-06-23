@@ -1,6 +1,6 @@
 # #BALANCE
 ![Imgur](https://i.imgur.com/JLznfj3.jpg)
-
+#azione #reazione #cambiamento #inquinamento #ambiente
 
 **Componenti del progetto**<br>
 * Teca/piantine
