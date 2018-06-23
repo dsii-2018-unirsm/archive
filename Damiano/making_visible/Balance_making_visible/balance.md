@@ -3,7 +3,9 @@
 ![Imgur](https://i.imgur.com/JLznfj3.jpg)
 
 **Componenti del progetto**<br>
+
 * Teca/piantine
+![Imgur](https://i.imgur.com/OHHux4t.jpg)
 * Software processing/lettura dati
 * Pavegen/generatore elettrico (Piezo per prototipazione)
 * Elettropompe/arduino
