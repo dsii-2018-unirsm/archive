@@ -1,18 +1,42 @@
 ### social mirror: the intimate relationship with your posts ###
-[Making visible 1.0 alpha]<br>
+[Making visible 1.1 alpha]<br>
 
-*#synestesia #emotion #words #portal #closeness*<br>
+*#emotion #selfie #social #recognotion*<br>
 
-La sinestesia è una condizione neurologica in cui i percorsi cognitivi che riguardano i propri sensi - vista, olfatto, tatto, suono, ecc. - sono collegati o scambiati, e ne sono influenzati moderatamente. Un sinesteta potrebbe, per esempio, vedere il colore verde quando legge la parola “amore”, o vedere un'aura colorata attorno alle persone in base alle emozioni che sta provando. Molti sinesteti descrivono la sua manifestazione visiva come una sorta di schermo nell'occhio della mente, i colori o le immagini che galleggiano in cima a qualsiasi cosa si trovi nella loro linea di vista - una macchia di sensazioni tra loro e il resto del mondo.<br>
-Apparentemente, però, siamo tutti un po' sinestetici. Cytowick, in un'intervista del 2009, dichiarò: "... il cross-talk tra i sensi è la regola piuttosto che l'eccezione - siamo tutti sinesteti interiori anche se non ne siamo in maniera consapevole". Per esempio nella danza: i nostri corpi si spostano naturalmente verso i ritmi prodotti dal suono. Il nostro cervello continua a impollinarsi mescolando i sensi in modi che non sempre riusciamo a fare emergere e tradurli in sensazioni. Il processo sinestetico dunque facilita il processo di creazione di "connessioni metaforiche incrociate" tra diverse aree del cervello.
+*Social Mirror* è uno strumento integrato nei social networks per gestisce la componente emotiva degli utenti con lo scopo di organizzarne i ricordi. In base al rilevamento delle emozioni vengono riproposti post passati che hanno un peso emotivo positivo per l’utente stimolando le emozioni positive ad esse associate.</br>
+Lo strumento prende in considerazione gli stati emotivi che l’utente aggiunge nel momento di creazione di un post e li mette in relazione con gli stati emotivi successivi per creare una timeline delle emozioni.</br>
+Uno strumento di esplorazione delle emozioni.</br>
 
-Dunque le emozioni, che da Darwin in poi sono state definite come retaggio evoluzionistico finalizzato alla sopravvivenza, sono in stresso rapporto con la sinestesia perché si manifestano universalmente in maniera “sensibile” nell'uomo, prima inconsapevolmente e poi consapevolmente diventando sentimento. 
+**Face tracking**<br>
+Un sistema di riconoscimento facciale è una tecnologia in grado di identificare o verificare una persona da un’immagine digitale o da una sorgente video confrontando le caratteristiche facciali selezionate di una determinata immagine con facce all’interno di un database.
 
-**Portale**<br>
-Se in architettura è la porta principale di un edificio, e di conseguenza simboleggia l'atto di separazione (se chiuso) e comunicazione (se aperto) tra due livelli, quello del noto e quello del non noto, limite del mondo esterno con quello interiore; nell'informatica è un punto di partenza di un'insieme consistente di risorse. In questo caso il portale è sia inizio di un insieme di possibili direzioni sia spartiacque tra l'estero 
+Il riconoscimento facciale è già utilizzato in tutto il mondo per esaminare, investigare e monitorare. In Cina, la polizia usa il riconoscimento facciale per identificare e svergognare pubblicamente le persone per il crimine di jaywalking [8]. 
+Nel Regno Unito, il riconoscimento facciale è stato utilizzato in occasione di un festival culturale annuale indiano occidentale per identificare i festaioli in tempo reale. Negli Stati Uniti, più della metà di tutti gli adulti americani sono in un database di riconoscimento facciale che può essere utilizzato per indagini penali, semplicemente perché hanno una patente di guida.<br>
+I governi non sono gli unici utilizzatori del riconoscimento facciale. I rivenditori usano la tecnologia nei loro negozi per identificare i sospetti taccheggiatori. Le applicazioni dei social media integrano sempre più il riconoscimento facciale nella loro esperienza utente; un’applicazione in Russia consente agli estranei di scoprire chi sei semplicemente scattando la tua foto.<br>
+Un ulteriore livello di complessità e possibilità si ottiene se si considera il tracciamento delle emozioni in tempo reale.<br>
 
-L’interazione umana è una complessa danza di movimenti che coinvolge postura, muscoli del viso, ritmo e tono della voce; tramite questi e altri segnali, si immettono nell’altro e si accolgono dentro di sé stati emozionali di varia natura e intensità. Entro il codice verbale, forse la poesia e la narrativa sono le forme più adatte per esprimere gli affetti, perché in questo caso la codifica lineare del significato è accompagnata in modo sostanziale da aspetti più “sensoriali”, quali la bellezza dell’immagine evocata e il ritmo del linguaggio, l’assonanza tra le parole, in un’attivazione simultanea di molteplici sensi. <br>
-Il sistema linguistico per la codifica utilizza schemi emotivi, che si esprimono spontaneamente nella mimica, nella voce, nel gesto ecc., possono essere analizzati e uno dei più utilizzati oggi è il riconoscimento della mimica facciale. (In campo militare ci sono strumenti di microanalisi delle espressioni facciali addestrati nel tradurre emozioni da un volto). 
+***Emotion tracking***<br>
+Charles Darwin scrisse nel suo libro del 1872, “The Expression of the Emotions” che “le espressioni facciali delle emozioni sono universali”. <br>
+La ricerca fondamentale sull’argomento è venuta da Paul Ekman, che ha aperto la strada alla ricerca sul riconoscimento delle emozioni negli anni ‘60. Il suo team di scienziati ha fornito ai soggetti del test foto di volti che mostravano diversi stati emotivi. I soggetti del test dovevano classificare gli stati emotivi che vedevano in ogni foto, da una lista predeterminata di possibili emozioni.<br>
+Nel test si conferma che gli umani mostrano una coerenza universale nel riconoscere le emozioni. <br>
+
+Il riconoscimento delle emozioni è un processo che gli umani compiono automaticamente, ma anche tecniche computazionali sono state sviluppate. <br>
+Questo processo sfrutta le tecniche di più aree, come l’elaborazione del segnale, l’apprendimento automatico e la visione artificiale. Diverse metodologie e tecniche possono essere utilizzate per interpretare emozioni come le reti bayesiane, modelli a miscela gaussianae modelli di Markov nascosti. <br>
+
+In questo panorama esistono alcuni servizi come Face API di Microsoft. Il servizio riconosce un’espressione facciale a partire da in un’immagine come input e restituisce una serie di sette parametri relativi alle emozioni : anger, contempt, disgust, fear,happiness, neutral, sadness, surprise. <br>
+
+Per quanto riguarda i testi il servizio Tone Alalyzer progettato da IBM utilizza l’analisi del testo in tempo reale per rilevare i toni di gioia, paura, tristezza, rabbia, analitici, sicuri e incerti presenti in un determinato testo. <br>
+
+Esiste una versione open source per il face tracking. CLMtrackr[15] si basa sugli algoritmi di Jason Saragih e Simon Lucey[16], più precisamente “Face Alignment through Subspace Constrained Mean-Shifts”.<br>
+L’algoritmo si adatta al modello facciale utilizzando 70 piccoli classificatori. Data una posizione approssimativa iniziale, i classificatori cercano una regione piccola attorno a ciascun punto per una migliore adattabilità, e il modello viene quindi spostato in modo incrementale nella direzione per adattarsi gradualmente. <br>
+
+Spin-off del MIT Media Lab è Affectiva, un’altra soluzione per il rilevamento di emozioni su larga scala delle emozioni in tempo reale. <br>
+Su base di uno studio di Marko Tkalcic dell’Università di Bolzano ho scelto di utilizzare Affectiva perché è uno degli strumenti più performanti per il riconoscimento delle emozioni e viene ceduto in licenza gratuita a studenti. 
+<br>
+Pensiamo a tutti i luoghi in cui mostriamo la nostra faccia ogni giorno. I negozianti, le forze dell’ordine o gli estranei che possono catturarci in una foto. Trasformando questi dati possono essere usati per identificarci, rintracciarci o sorvegliarci. Questi usi del riconoscimento facciale valgono l’erosione della nostra privacy e i rischi persistenti di errata identificazione?<br><br>
+Affectiva Face Tracking - Testing <br>
+![face traking](https://i.imgur.com/TtNpEo7.png)
+
 
 **Casi studio**<br>
 **Collide** (synaesthetic art installation)<br>
@@ -46,7 +70,8 @@ L'algoritmo di face traking analizza dei punti salienti del volto ed associa ad 
 Partendo da una storia che è l'insieme delle tue emozioni si crea una sorta di diario delle emozioni dove puoi aggiungere scritte o voci. Il diario metterà in evidenza le emozioni positive, cercando di capirne l'intensità, in modo che siano facili da riconoscere. Le emozioni positive hanno il potere di aiutare le persone a superare momenti di difficoltà e dovrebbero darci la forza di andare avanti cercando di superare i brutti momenti. Infatti pensando e ricordi felici si predispone l'organismo a mettersi nella condizione di essere felice, e per esempio il corpo rilascia serotonina. 
 
 **Cosa succederebbe se**<br>
-Cosa succederebbe se l'output fosse un oggetto fisico o una scultura tridimensionale visibile in realtà aumentata? I dati raccolti potrebbero diventare movimenti di luci e suoni per un'installazione.  
+Cosa succederebbe se l'output fosse un oggetto fisico o una scultura tridimensionale visibile in realtà aumentata? I dati raccolti potrebbero diventare movimenti di luci e suoni per un'installazione. 
+
 **design fiction**<br>
 La depressione è destinata a diventare il più grande carico di salute del mondo entro il 2030, e di conseguenza saranno sempre più frequenti i sistemi di analisi delle emozioni per capire in che stato emozionale siano gli individui. Questi fattori, oltre ad essere messi a disposizione da medici ed esperti, diventano un insieme di memorie tracciabili che producono una mappa delle emozioni su vasta scala e vengono forniti alle persone  quotidianamente dei suggerimenti sul come sopravvivere alla tristezza.    
 
@@ -61,6 +86,9 @@ Per quanto riguarda i testi il servizio Tone Alalyzer progettato da IBM utilizza
 **Possibili output**<br>
 - installazione immersiva dove le persone si mettono in relazione alle proprie emozioni esplorandole all'interno di un ambiente di realtà virtuale
 - traduzione del diario emozionale in un oggetto fisico che un utente, anche non vedente, può esplorare con il tatto
+
+**Sviluppi futuri**</br>
+L’informatica è stata a lungo intrecciata con i sogni tecnologici della società. Il sogno delle case automatizzate si riferisce all’informatica onnipresente, proprio come il sogno delle macchine senzienti si riferisce all’intelligenza artificiale (AI). Un altro dei sogni della società è quello che le persone attraverso il computer possano diventare chiunque o qualunque cosa vogliamo essere. In parte questo è possibile ma la consapevolezza del cosa succede all’interno di questi algoritmi di riconoscimento è paradossalmente oscura. Rendere consapevoli le persone degli strumenti di automazione di tracciamento di dati personali non sono è soltanto utile nei social network ma può essere un discorso ampliato e divenire una normativa che gli sviluppatori sono tenuti a rispettare integrando grafici e modelli nelle applicazioni in modo che gli utenti possano abilitare o disabilitare facilmente e chiaramente funzioni specifiche esercitando le proprie libertà. 
 
 **Fonti (principali)**<br>
 Wednesday is Indigo Blue: Discovering the Brain of Synesthesia (with David Eagleman), Foreword by Dmitri Nabokov (2009). Cambridge: MIT Press. ISBN 978-0-262-01279-9   

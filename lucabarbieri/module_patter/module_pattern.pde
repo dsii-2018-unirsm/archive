@@ -1,40 +1,52 @@
-// Luca Barbieri @lb © 2017-18 MIT License
-// % pattern | San Marino, RSM | 3.2018
-// Educational purpose, made for DSII2018 lab @UniRSM
-// Fork from Pearlyn Lii
+// -
+// Smoke circle 0.1 by lucabarbieri [modulus, smoke effect]
+// 2018 © lucabarbieri, Daniele @Fupete and the course DSII2018 @UniRSM 
+// github.com/fupete — github.com/dsii-2018-unirsm
+// Educational purposes, MIT License, 2018, San Marino
+// —
+//
+// Help:
+// [mouse] The circle search your mouse pointer
+//
+// -
 
 float i = 0;
 float j = 0;
 float k = 0;
+float c = 0;
+float d = 0; 
 
 void setup() {
-  background(200);
+  background(0);
   fullScreen();;
   smooth();
-  strokeWeight(2);
-  
-  fill(0);
-  text("% PATTERN", 100 ,height-100);
+  strokeWeight(25);
 }
 
 void draw() {
-  //i = i + .01; //changes path 
-  //j = j + .05; //changes path
-  i = (i + .01) % width;
-  j = (j + .05) % width;
+  
+  fill(255);
+  text("Smoke circle - %", 100 ,height-100);
+  
+  i += .03;
+  j += .02; 
 
   //changes color increment
-  k = k + 1; 
+  k += 1; 
   if (k > 300) {
     k = 0;
   }
   stroke(k+3, 0, 100, 30); //changes color range
 
-  float a = map(sin(i), -2, 2, 0, width+800);
-  float b = map(sin(i), -1, 1, 0, height);
-  float c = map(cos(j), -2, 2, 0, width-800);
-  float d = map(sin(j), -1, 1, 0, height);
+
+  c = map(cos(i), -2, 2, 0, 400);
+  d = map(sin(j), -1, 1, 0, 400);
   
   noFill();
-  ellipse(a, b, c, d);
+  
+  if (k % 20 == 0){
+  background(i);
+  }
+  
+  ellipse(mouseX, mouseY, c, d);
 }

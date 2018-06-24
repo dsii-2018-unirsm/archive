@@ -1,6 +1,9 @@
-// Luca Barbieri @lb © 2017-18 MIT License
-// Love Letter Generator M.U.C. | San Marino, RSM | 3.2018
-// Educational purpose, made for DSII2018 lab @UniRSM
+// -
+// Random Love Letters 0.1 by lucabarbieri [Love, M.U.C.]
+// 2018 © lucabarbieri, Daniele @Fupete and the course DSII2018 @UniRSM 
+// github.com/fupete — github.com/dsii-2018-unirsm
+// Educational purposes, MIT License, 2018, San Marino
+// —
 
 String [] intro1 = {"Beloved", "Darling", "Dear", "Dearest", "Fanciful", "Honey"};
 

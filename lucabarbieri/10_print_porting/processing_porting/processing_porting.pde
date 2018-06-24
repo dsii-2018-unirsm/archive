@@ -1,6 +1,10 @@
-// Luca Barbieri @lucabarbieri © 2017-18 MIT License
-// 10 print blue and white | San Marino, RSM | 3.2018
-// Educational purpose, made for DSII2018 lab @UniRSM
+
+// -
+// 10 print porting 0.1 by lucabarbieri [10print, blue&white]
+// 2018 © lucabarbieri, Daniele @Fupete and the course DSII2018 @UniRSM 
+// github.com/fupete — github.com/dsii-2018-unirsm
+// Educational purposes, MIT License, 2018, San Marino
+// —
 
     int w = 16;
     int h = 16;
