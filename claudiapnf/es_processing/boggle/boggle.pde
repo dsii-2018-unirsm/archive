@@ -1,5 +1,14 @@
-//GIOCO BOGGLE
-//click per lanciare i dadi
+// -
+// Boggle by Claudia Panfili [words, random]
+// 2018 © Claudia Panfili, Daniele @Fupete and the course DSII2018 @UniRSM 
+// github.com/fupete — github.com/dsii-2018-unirsm
+// Educational purposes, MIT License, 2018, San Marino
+// —
+//
+// Help:
+// [mouse] click
+//
+// —
 
 int x;
 int y;
@@ -22,8 +31,8 @@ void draw() {
   textSize(20);
   for (int i = 0; i < 10; i ++){
     for (int j = 0; j < 10; j ++){
-     String generatore = lettere[int(random(20))];
-     text(generatore,(width/2 -30*i) + 100 , (height/2 -30*j) +100 );
+     String generatore = lettere[int(random(30))];
+     text(generatore,(width/2 -30*i) + 100 , (height/2 -30*j) +100);
     }
    }
    String s = "Click to roll the dice. Click to stop them. Find words as possible. The letters must be adjoining in a chain (horizontally, vertically, or diagonally). Words must contain at least three letters.";
@@ -33,7 +42,7 @@ void draw() {
    //coordinate viewport, grandezza box di testo
    text(s, 1100, 590, 160, 200);
    text(t, 1100, 450, 100, 200);
-   text("BOGGLE",502, 160);
+   text("BOGGLE",508, 160);
   }
 
 void mousePressed() {

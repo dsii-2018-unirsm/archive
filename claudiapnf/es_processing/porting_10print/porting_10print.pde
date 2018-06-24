@@ -1,10 +1,13 @@
-//PORTING 10 PRINT TO PROCESSING
-//by @claudiapnf© 2018 MIT License
-//DSII2018 Lab @UNIRSM website
+// -
+// porting 10 print to processing by Claudia Panfili [10print, maze]
+// 2018 © Claudia Panfili, Daniele @Fupete and the course DSII2018 @UniRSM 
+// github.com/fupete — github.com/dsii-2018-unirsm
+// Educational purposes, MIT License, 2018, San Marino
+// —
 
 void setup() {
-    size(640,384);
-    background(64, 64, 224);
+    fullScreen();
+    background(0);
 }
 
 int length = 20;
