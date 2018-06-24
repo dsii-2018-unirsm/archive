@@ -1,3 +1,8 @@
+// Balance_processing_lettura hashtag 0.1 by Damiano Pluchino [keyword1, keyword2]
+// 2018 © Damiano Pluchino, Daniele @Fupete and the course DSII2018 @UniRSM 
+// github.com/fupete — github.com/dsii-2018-unirsm
+// Educational purposes, MIT License, 2018, San Marino
+
 //ritorna il numero di hashtag corrispondenti alla parola cercata
 import com.temboo.core.*;
 import com.temboo.Library.Instagram.*;
@@ -8,15 +13,14 @@ import com.temboo.Library.Instagram.*;
 
 
 // Create a session using your Temboo account application details
-TembooSession session = new TembooSession("damianop", "myFirstApp", "V1WEENGTLSLnRxSUAJslrMeEKmTMs3W3");
+TembooSession session = new TembooSession("damianop", "myFirstApp", "EPTDaDMqwezq6SkT8ArU6rpvW55tQA5f");//queste da sostituire nel caso fine runs choreo
 
 
 //arduino
  Serial port; 
 //
 
-String hash_ = "tesnghash";
-
+String hash_ = ("nature"); 
 boolean init = true;
 
 int tempNew = 0;
@@ -52,7 +56,7 @@ void draw() {
    //
   };
  
-  if (frameCount%300 == 0) { // < 120 è il numero di secondi > 60 1s 120 2s 180 3s etc...
+  if (frameCount%240 == 0) { // < 120 è il numero di secondi > 60 1s 120 2s 180 3s etc...
     tempOld = tempNew;
     runTagNameChoreo();
    
@@ -103,3 +107,39 @@ void runTagNameChoreo() {
     init = false;
   }
 }
+
+
+
+
+
+
+/*
+import com.temboo.core.*;
+import com.temboo.Library.Instagram.OAuth.*;
+
+// Create a session using your Temboo account application details
+TembooSession session = new TembooSession("damianop", "myFirstApp", "EPTDaDMqwezq6SkT8ArU6rpvW55tQA5f");
+
+void setup() {
+  // Run the FinalizeOAuth Choreo function
+  runFinalizeOAuthChoreo();
+}
+
+void runFinalizeOAuthChoreo() {
+  // Create the Choreo object using your Temboo session
+  FinalizeOAuth finalizeOAuthChoreo = new FinalizeOAuth(session);
+
+  // Set inputs
+  finalizeOAuthChoreo.setClientSecret("c8880070ca5a4aae8f0296ffe57860e0");
+  finalizeOAuthChoreo.setCallbackID("damianop/27853983-28f7-4a5d-ab7f-a6197af91fad");
+  finalizeOAuthChoreo.setClientID("6c339d5c9dc74b9a9906362d1d62fa5c");
+
+  // Run the Choreo and store the results
+  FinalizeOAuthResultSet finalizeOAuthResults = finalizeOAuthChoreo.run();
+  
+  // Print results
+  println(finalizeOAuthResults.getAccessToken());
+  println(finalizeOAuthResults.getErrorMessage());
+  println(finalizeOAuthResults.getResponse());
+
+}*/
