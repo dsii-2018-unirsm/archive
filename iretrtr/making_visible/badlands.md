@@ -1,7 +1,8 @@
 ## (bad)lands
+[project repository](https://github.com/iretrtr/dsii-2018-unirsm.github.io/tree/master/iretrtr/making_visible)
 <br>Il termine *badlands* sta a indicare un’area tipicamente arida in cui rocce sedimentarie e terreni ricchi di argilla sono stati erosi ampiamente da vento e acqua. Sono terreni ostici, diffcili da esplorare ma di una bellezza imprescindibile.
 
-![Layers of rock stand visible in the badlands in Badlands National Park.](https://i.imgur.com/b52oLOb.jpg)
+![Layers of rock stand visible in the badlands in Badlands National Park in South Dakota.](https://i.imgur.com/W4xC7Np.jpg)
 
 **parole chiave** <br>altruismo, condivisione, comunità, cartografia
 
@@ -39,18 +40,18 @@ Reddit è la *badland*.<br>
 • All'interno dell'insediamento troviamo una serie di luoghi di interesse dettati dai topic.<br>
 • I voti ricevuti da un topic ne denotano la rilevanza, più un topic è rilevante più è alta la sua quota.<br>
 • La quantità di commenti sotto un determinato topic ne denota la popolarità, più un topic è popolare più gravita verso il centro della mappa.<br>
+• Se il subreddit è NSFW viene etichettato come "off limits".<br>
 
 *altre possibili implementazioni*
 <br>• Gli utenti attivi negli ultimi 15 minuti vengono rapprensentati con pallini in movimento, gravitano attorno al luogo di interesse dove è stata riscontrata l'ultima azione da loro compiuta (es. topic votato/commentato) e si spostano di accordo. Se sono solo attivi senza aver compiuto nessuna azione sono fermi al centro della mappa.<br>
-• Se il subreddit è NSFW viene etichettato come "off limits".<br>
 • La quantità di parole positive e negative all'interno dei contenuti testuali di tale subreddit denotano la presenza o assenza di flora e fauna dell'insediamento.<br>
 • Gli utenti bannati costituiscono un insediamento a sé.<br>
 
 **metafora visiva**
-<br>Un subreddit identifica una comunità che discute di un determinato argomento. Ogni subreddit definisce quindi una città, un insediamento. Gli iscritti a un subreddit rappresentano la popolazione di tale insediamento dettando il livello di dettaglio della mappa di tale luogo. All’interno dell’insediamento troviamo una serie di luoghi di interesse dettati dai topic, i voti ricevuti da un topic ne denotano la rilevanza, più un topic è rilevante più è alta la sua quota. Mentre la quantità di commenti sotto un determinato topic ne denota la popolarità, più un topic è popolare più gravita verso il centro della mappa. Il topic più popolare sarà così collocato perfettamente al centro gli altri, di conseguenza, gli orbiteranno attorno.
+<br>L’obiettivo è quello di trovare una metafora visiva ideale, gli approcci possono essere molteplici e per un primo prototipo si è scelta la seguente strada: un subreddit identifica una comunità che discute di un determinato argomento, ogni subreddit definisce quindi un insediamento; gli iscritti a un subreddit rappresentano la popolazione di tale insediamento dettando il livello di dettaglio della mappa di tale luogo; all’interno dell’insediamento troviamo una serie di luoghi di interesse dettati dai topic, i voti ricevuti da un topic ne denotano la rilevanza, più un topic è rilevante più è alta la sua quota; la quantità di commenti sotto un determinato topic ne denota la popolarità. Il topic più popolare si concretizza nella capitale dell’insediamento. Inoltre la presenza di contenuti marcati come NSFW porta il territorio verso una colorazione di sfumature del rosso.
 
 **generare una mappa**
-<br>L’idea è quella di creare una cartografia plausibile, verosimile e non astratta, dando così una “fisicità” a un luogo che non esiste nello spazio reale. La forma della mappa di un insediamento (subreddit) viene generata basandosi su un diagramma di Voronoi di un insieme di punti nel piano, la quantità di punti che lo andranno a costituire è data dal numero della popolazione (subreddit subscribers). Vista l’enorme quantità di iscritti ai più popolari subreddit è stato necessario rimappare i valori su una scala da 10 a 1500, dove 10 è il numero minimo di tasselli del diagramma e 1500 il numero massimo. La scala originale va da un minimo di 1 iscritto a un massimo di 21,352,277 iscritti che corrisponde agli iscritti del subreddit più popolare al momento secondo redditmetrics.com (https://www.reddit.com/r/announcements/). Su tale tassellazione verranno delineati i confini dell'insediamento. Più è alto il numero della popolazione più i confini della mappa saranno definiti e "organici". Ogni tassello viene marcato come *land* o *water* così da delineare i confini di tale insediamento. Una volta identificato il territorio, su di esso vengono collocati i luoghi di interesse (topic). Ad ogni luogo di interesse viene assegnato un nome proprio generato dal titolo del rispettivo topic. La mappa viene elaborata dopo aver inserito nella casella di input il nome unico del subreddit di cui si desidera visualizzare la cartografia.
+<br>L’idea è quella di creare una cartografia plausibile, verosimile e non astratta, dando così una “fisicità” a un luogo che non esiste nello spazio reale. La forma della mappa di un insediamento (subreddit) viene generata basandosi su un diagramma di Voronoi di un insieme di punti nel piano, la quantità di punti che lo andranno a costituire è data dal numero della popolazione (subreddit subscribers). Vista l’enorme quantità di iscritti ai più popolari subreddit è stato necessario rimappare i valori su una scala da 10 a 1500, dove 10 è il numero minimo di tasselli del diagramma e 1500 il numero massimo. La scala originale va da un minimo di 1 iscritto a un massimo di 21,352,277 iscritti che corrisponde agli iscritti del subreddit più popolare al momento secondo redditmetrics.com (https://www.reddit.com/r/announcements/). Su tale tassellazione verranno delineati i confini dell'insediamento. Più è alto il numero della popolazione più i confini della mappa saranno definiti e "organici". Ogni tassello viene marcato come *land* o *water* così da delineare i confini di tale insediamento. Una volta identificato il territorio, su di esso vengono collocati i luoghi di interesse (topic). La capitale viene assegnata al luogo di interesse più frequentato, ovvero quello corrispondente al topic con il più alto numero di commenti. Di seguito vengono creati monti e pianure: i luoghi di interesse più rilevanti (topic con un alto score) avranno quota maggiore, gli altri di conseguenza. Ad ogni luogo di interesse viene assegnato un nome proprio generato dal titolo del rispettivo topic. La mappa viene elaborata dopo aver inserito nella casella di input il nome unico del subreddit di cui si desidera visualizzare la cartografia.
 
 ![Due diagrammi di Voronoi a confronto, i punti che li generano sono i subreddit_subscribers di quel dato subreddit](https://i.imgur.com/7bfhi1B.png)
 <br>esempio di due diagrammi fondati sul numero di subreddit subscribers appartenenti a due subreddit differenti.<br>libreria utilizzata > semplificazione di p5.voronoi, Dozed12 [+](https://github.com/Dozed12/p5.voronoi)
@@ -63,6 +64,8 @@ Reddit è la *badland*.<br>
 
 **generatore di nomi**
 <br>I nomi delle singole città si basano sul testo del titolo del relativo topic. Il primo passo per la scrittura dell'algoritmo è stato quello di dividere le lettere di ogni singolo titolo in due array: vocali e consonanti. Questo passaggio è stato necessario per poi poter assemblare sillabe formate da consonante/vocale/consonante che accoppiate potessere creare una parola leggibile e riconducibile a un nome proprio (ovviamente in una lingua inventata). Per ogni topic viene così generato un nome unico e univoco che non cambierà nel tempo in quanto la scelta delle consonanti e vocali che andranno a comporre le sillabe per la nascita del nome non è casuale.
+
+![Mappa del subreddit r/europe](https://i.imgur.com/kl8CIL1.png)
 
 **Voronoi Tessellation references**
 <br> Voronoi Tessellation, Mike Bostock [+](https://bl.ocks.org/mbostock/4060366)

@@ -1,3 +1,10 @@
+// -
+// pattern_modulo 0.1 by Irene Trotta [pattern, module]
+// 2018 © Irene @iretrtr, Daniele @Fupete and the course DSII2018 @UniRSM 
+// github.com/fupete — github.com/dsii-2018-unirsm
+// Educational purposes, MIT License, 2018, San Marino
+// —
+
 void setup(){
   fullScreen(); 
   background(0);
