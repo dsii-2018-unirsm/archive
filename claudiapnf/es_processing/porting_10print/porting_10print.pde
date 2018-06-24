@@ -7,7 +7,7 @@
 
 void setup() {
     fullScreen();
-    background(0);
+    background(64, 64, 224);
 }
 
 int length = 20;
