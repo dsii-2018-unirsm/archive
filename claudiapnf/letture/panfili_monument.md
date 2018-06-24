@@ -1,5 +1,5 @@
 ## **Monument**
-anno | 2006  u
+anno | 2006<br>
 luogo | Peacock Visual Arts di Aberdeen, Scozia <br>
 autore | [Caleb Larsen](http://caleblarsen.com/)  <br>
 articoli | [+](http://caleblarsen.com/monument/)
