@@ -1,3 +1,20 @@
+// -
+// Dizionario del no sense 0.1 by Riccardo Frignani [no sense]
+// 2018 © Riccardo Frignani, Daniele @Fupete and the course DSII2018 @UniRSM 
+// github.com/fupete — github.com/dsii-2018-unirsm
+// Educational purposes, MIT License, 2018, San Marino
+// —
+//
+// Help:
+// [key] action
+// [key] action
+// [mouse] action
+//
+// —
+
+
+
+
 // Stampa una delle quattro parole
 
 void setup () {
