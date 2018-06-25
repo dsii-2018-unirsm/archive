@@ -20,4 +20,4 @@ Lo studio prevede l’uso di aste ricoperte da strisce di led. Questi, connessi 
 Il progetto vuole esaltare la forza della rete utilizzando un linguaggio visivo che ne sfrutta le potenzialità. Inoltre vuole rendere visibile ciò che, seppur invisibile ai nostri occhi, usiamo quotidianamente, ponendo l’accento sull’inconsapevolezza con cui fruiamo di certi strumenti. La scelta di unire qualcosa di immateriale come la luce alla fisicità dello spazio cittadino rafforza ulteriormente il messaggio del progetto.
 
 #### What if
-Cosa succederebbe se il segnale fosse rappresentato attraverso il suono anzichè la luce? Cosa succederebbe se l'installazione visualizzasse le interazioni che avvengono attraverso la rete, come upload  e download?
+Cosa succederebbe se il segnale fosse rappresentato attraverso il suono anziché la luce? Cosa succederebbe se l'installazione visualizzasse le interazioni che avvengono attraverso la rete, come upload  e download?
