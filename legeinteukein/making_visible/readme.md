@@ -102,7 +102,7 @@ In questo modo i movimenti del soggetto sono “traccati”, elaborati, generati
 I sensori di prossimità inviano un segnale alle matrici led 8x8 posizionate sulla stessa collana, e attivano in base alla distanza con l’oggetto un determinato numero di led in una determinata posizione sulla matrice.
 Le librerie per permettere il funzionamento del led circolare collegato al giroscopio sono: Adafruit neopixel, MPU6050_6Axis_MotionApps20.h, I2Cdev.h.
 La prima per regolare il led e la seconda per calibrare il giroscopio in base alle funzioni che si vogliono ottenere. Si accenderà sulla propria collana uno dei ventiquattro led in base all’inclinazione del giroscopio dell’altra persona con cui si sta interagendo.
-[![foto](https://github.com/legeinteukein/archive_LN/blob/master/legeinteukein/making_visible/creazione_collana/foto/IMG_7811.jpg]
+[foto](https://github.com/legeinteukein/archive_LN/blob/master/legeinteukein/making_visible/creazione_collana/foto/IMG_7811.jpg]
 
 #### Interazione
 Dall’analisi dell’interazione tra due collane si nota che i sensori di prossimità sono efficaci quando lo spazio intorno alla persona è sgombro di oggetti, poiché i sensori rilevano indistintamente la figura umana da altre sagome. 
@@ -110,8 +110,8 @@ La persona riflessa nella collana, se in presenza di altre persone deve quindi c
 L’output dato dalle matrici led 8x8 durante l’interazione è immediato, perché non c’è bisogno di trasferimento tramite tecnologia Bluetooth.
 L’interazione generata dalla trasmissione da giroscopio e led circolare, non è d’immediata comprensione in una prima prova, bisogna che durante la comunicazione le persone stiano attente ai propri movimenti, e capiscano la relazione tra rotazione del proprio busto e posizione sul led.
 
-[![foto](https://github.com/legeinteukein/archive_LN/blob/master/legeinteukein/making_visible/creazione_collana/foto/IMG_7816.jpg]
-[![foto](https://github.com/legeinteukein/archive_LN/blob/master/legeinteukein/making_visible/creazione_collana/foto/IMG_7813.jpg]
+[foto](https://github.com/legeinteukein/archive_LN/blob/master/legeinteukein/making_visible/creazione_collana/foto/IMG_7816.jpg]
+[foto](https://github.com/legeinteukein/archive_LN/blob/master/legeinteukein/making_visible/creazione_collana/foto/IMG_7813.jpg]
 
 #### Interazione ottimizzata
 L’interazione tra due collane è fluida in un ambiente sgombro ma se si aumentano il numero di persone e quindi anche il numero di collane queste devono essere riconosciute e identificate attraverso un codice che permetta di distinguere le azioni dei singoli componenti del gruppo, per non creare sovrapposizioni grafiche che risulterebbero indecifrabili. Bisognerebbe allora creare un codice (es. codice colore) per far si che ogni singola collana si distingui e la persona si possa riconoscere attraverso quel codice identificativo.
